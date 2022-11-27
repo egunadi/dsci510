@@ -4,8 +4,22 @@ restaurant_id,category,name,description,price
 342,Nori Specialties,Ayam Penyet,Marinated beef rice bow.,15.95 USD
 342,Nori Specialties,Ikan Balado,Smashed fried spring chicken with hot chili sauce.,29.95 USD
 342,Nori Specialties,Sate Kambing,,19.95 USD
+1974,Indonesian Entrees,Curry,"Hot and spicy. Chicken breast with cabbage, onions, green, and red peppers.",12.6 USD
+1974,Indonesian Entrees,Lamb Curry with Potatoes,Hot and spicy.,19.14 USD
+1974,Indonesian Entrees,Rendang Beef,Hot and spicy. Thick curry with potatoes.,16.74 USD
 1974,Indonesian Entrees,Sambal Udang,"Hot and spicy. Shrimp, green beans, onions, bamboo shoots, peppers, tofu, and tempeh.",15.9 USD
+1974,Indonesian Entrees,Bali,"Hot and spicy. Fried beef, pea pods, bamboo shoots, onions, tomatoes, green and red pepper, carrots, and cashew nuts.",15.54 USD
 1974,Indonesian Entrees,Ayam Goreng Mentega,Butter-dipped fried chicken with sweet Indonesian soy sauce.,16.74 USD
+1974,Indonesian Entrees,Hot Plate,"Chicken with pea pods, green and red pepper, onions, and scallions.",15.0 USD
+1974,Indonesian Entrees,Tom and Jerry Hot Plate,Shrimp and scallops.,17.94 USD
+1974,Indonesian Entrees,Singapore Rice Noodles,"Hot and spicy. Shrimp, chicken, and curry.",12.6 USD
+1974,Indonesian Entrees,Nasi Goreng,"Indonesian fried rice with shrimp, beef, chicken, and fried eggs.",14.4 USD
+1974,Indonesian Entrees,Kweetiau Goreng,"Thick rice noodles, shrimp, beef, Chinese sausage, and eggs.",12.6 USD
+1974,Indonesian Entrees,Biehun Goreng,Thin rice noodles.,12.6 USD
+1974,Indonesian Entrees,Indonesian Kung Pao Shrimp,Hot and spicy.,17.4 USD
+1974,Indonesian Entrees,Gado-Gado,Hot and spicy. Indonesian vegetarian delight with peanut sauce.,11.4 USD
+1974,Indonesian Entrees,3 Delight Curry,"Hot and spicy. Shrimp, beef, and chicken.",17.4 USD
+1974,Indonesian Entrees,Laksa with Chicken,Hot and spicy. Indonesian red curry soup with coconut milk.,12.6 USD
 2144,Fresh Gourmet Sandwiches,#6 Tempeh Avocado,"Smoky tempeh, vegan cheddar, avocado, tomato, romaine, southwest vegenaise served on your choice of white, multigrain or dark rye bread",9.95 USD
 2144,Hot Grilled Sandwiches,#15 Smoky Vegan Tempeh,"Smoky tempeh, avocado, spinach, red onion, tomato, vegenaise, served grilled on ciabatta",10.95 USD
 2144,Wraps,Smoky Tempeh,"Smoky tempeh, avocado, tomato, romaine, red onion, southwest vegenaise, spinach tortilla",8.95 USD
@@ -103,9 +117,22 @@ Yuval Noah Harari (Author)
 19774,Extra Side Orders,X4 Organic Marinated Tempeh(6),Five grain,7.2 USD
 21669,Indonesian Specialties,Mie Ayam Pangsit Bakso,"Savory chicken mushrooms served on egg noodle, with boiled, fried wantons, and side of chicken broth beef ball soup.",12.95 USD
 21669,Indonesian Specialties,Sate Ayam Or Beef,"Grilled chicken or beef on skewers, side of small rice cakes, and peanut sauce and onion crackers.",11.95 USD
+21669,Indonesian Specialties,Rendang Bowl,"Marinated rib-eye beef slow cooked in spices, coconut milk served over jasmine rice, sauteed collard greens, onion crackers, boiled eggs, and sambal.",11.95 USD
 21669,Indonesian Specialties,Daging Sapi Asap,"Black pepper ribeye steak soy sauce served over jasmine rice, onion crackers, boiled eggs, and sambal.",11.95 USD
+21669,Indonesian Specialties,Siomay,"Steamed dim sum fish shrimp cakes, potatoes, bitter melon, tofu, and side of delicious peanut sauce.",11.95 USD
+21669,Indonesian Specialties,Batagor,"Fried fish shrimp cakes, potatoes, boiled eggs, and fried shrimp balls served with delicious peanut sauce.",11.95 USD
 21669,Indonesian Specialties,Ayam Bakar Taliwang,"Grilled marinated chicken served over rice, sliced cucumbers, and shrimp paste hot sauce.",11.95 USD
+21669,Indonesian Specialties,Kwetiauw Goreng,Fried rice noodle soy sauce with seafood.,11.95 USD
 21669,Indonesian Specialties,Bubur Ayam,"Savory chicken porridge served with shredded fried chicken, fried soybeans, cakwe, onion crackers, and sweet soy sauce quail eggs chicken liver.",10.95 USD
+21669,Indonesian Specialties,Rica Rica,"Spicy grilled fish served over jasmine rice, sauteed collard greens, side of hot sauce or dabu2/Indonesian salsa.",12.95 USD
+21669,Indonesian Specialties,Soto Betawi,"Jakarta beef and tribes coconut milk soup, served over jasmine rice, crackers and hot sauce.",12.95 USD
+21669,Indonesian Specialties,Nasi Uduk,"Coconut milk rice, side of marinated tofu &amp; tempe soybean cakes, spicy anchovies peanuts, sliced cucumbers, and sambal hot sauce.",12.95 USD
+21669,Indonesian Desserts,Klapertart,,7.95 USD
+21669,Indonesian Desserts,Pisang Bekar Coklat,,7.95 USD
+21669,Indonesian Desserts,Es Teler,,7.95 USD
+21669,Indonesian Desserts,Es Kelapa,,7.95 USD
+21669,Indonesian Desserts,Es Cendol,,7.95 USD
+21669,Indonesian Desserts,Bubur Ketan Hitam,,7.95 USD
 26473,Malaysian Entrees,Kari Ayam,Chicken with spicy red curry in coconut milk gravy. Served with white rice.,15.95 USD
 26473,Malaysian Entrees,Ayam Halia,Sautéed chicken breast with sliced ginger scallions and brown sauce. Served with white rice.,15.95 USD
 26473,Malaysian Entrees,Ayam Basil,Sauteed chicken breast with basil leaves mushrooms carrots snow peas and baby corn. Served with white rice.,15.95 USD
