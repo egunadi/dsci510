@@ -5,11 +5,11 @@ My main goal is to determine which dishes are most and least common in these res
 The first dataset of interest is "Uber Eats USA Restaurants and Menus" from Kaggle <https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus>. This data was scraped from <https://www.ubereats.com> and comprises of two CSV files:
 
 - "restaurants.csv" contains 40k+ entries of restaurants that have partnered with Uber eats accross the nation
-- "restaurant-menus.csv" contains 3.71M menu items orderable from the restaurants in restaurants.csv
+- "restaurant-menus.csv" contains 3.71M menu items orderable from the restaurants in "restaurants.csv"
 
 The dataset is updated frequently and, at the time of writing, was last updated three months ago. I plan on joining both files via their "restaurant ID" field.
 
-Also from Kaggle, the second dataset is "Indonesian Food Recipes" <https://www.kaggle.com/datasets/canggih/indonesian-food-recipes>. This data was scraped from <https://cookpad.com> and contains 14,000 Indonesian cuisine recipes, broken into seven CSV files based on food type (ex. chicken, beef, tofu, etc.). At the time of writing, the data was last updated three years ago.
+Also from Kaggle, the second dataset is "Indonesian Food Recipes" <https://www.kaggle.com/datasets/canggih/indonesian-food-recipes>. This data was scraped from <https://cookpad.com> and contains 14,000 Indonesian cuisine recipes, broken into eight CSV files based on food type (ex. chicken, beef, tofu, etc.). At the time of writing, the data was last updated three years ago.
 
 For the purposes of this project, I plan on merging all recipe files into a master list of Indonesian recipes. This list will probably have to be further consolidated so variations of the same dish are merged into one. For example, "Ayam goreng pedas gila ala Kfc" (spicy fried chicken KFC style) and "Ayam goreng tulang lunak" (soft bone fried chicken) should be consolidated into "Ayam goreng" (fried chicken).
 
