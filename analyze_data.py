@@ -35,9 +35,11 @@ for dish in dishes_df:
 generalized_dish_df = pd.DataFrame( generalized_dish_list,
                                     columns = ['restaurant_id', 'name_menuitem', 'category']    )
 
-# group dishes by category
-dish_count_df = generalized_dish_df['category'].value_counts().reset_index()
-dish_count_df.columns = ['category', 'count']
+# group dishes by category and count number of restaurants serving them
+dish_count_df = generalized_dish_df.groupby('category')['restaurant_id'] \
+                                    .nunique() \
+                                    .reset_index(name = 'count') \
+                                    .sort_values(['count'], ascending = False)
 
 # for bonus assignment: find seattle restaurants
 seattlerestaurants_df = indorestaurants_df[indorestaurants_df['full_address']

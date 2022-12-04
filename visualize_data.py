@@ -17,7 +17,7 @@ ax.tick_params(bottom=False, left=False)
 sns.despine(left=True, bottom=True)
 
 
-plt.xlabel('Number of Menu Items Available')
+plt.xlabel('Number of Uber Eats Restaurant(s) Serving Dish')
 plt.ylabel('')
 plt.title('Most Common Indonesian Dishes Served in Uber Eats')
 ax.figure.savefig('visualization/dish-category-count.pdf', bbox_inches = 'tight')
