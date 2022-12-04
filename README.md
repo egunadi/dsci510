@@ -17,9 +17,16 @@ Also from Kaggle, the second dataset is "Indonesian Food Recipes" <https://www.k
 
 To filter restaurants by those that serve Indonesian cuisine, all recipe files are merged into a master list of Indonesian recipes. This list will have to be further consolidated so variations of the same dish are merged into one. For example, "Ayam goreng pedas gila ala Kfc" (spicy fried chicken KFC style) and "Ayam goreng tulang lunak" (soft bone fried chicken) should be consolidated into "Ayam goreng" (fried chicken). These generalized Indonesian dishes are what is used to filter the Uber Eats food menu items and their respective restaurants.
 
-A bar plot is procured showing the most common general dish types orderable to the least common. For each dish type, bar lengths represent the number of restaurants serving said dish type via Uber Eats. To emphasize the respective popularity and rarity of these dishes, bars for most common dishes are sorted in descending order, while those for least common dishes are sorted in ascending order.
+A bar plot is procured showing the most common general dish types orderable to the least common. For each dish type, bar lengths represent the number of restaurants serving said dish type via Uber Eats. To emphasize the respective popularity and rarity of these dishes, bars are sorted in descending order.
 
-To engage the audience, restaurants associated with both visualizations are also listed. Both the restaurant name and address are included so audiences can go and try these dishes if they wish. For brevity, each list is limited to ten items and sorted in descending order based on popularity. 
+To engage the audience, lists of restaurants associated with both visualizations are also listed. Both the restaurant name and address are included so audiences can go and try these dishes if they wish. For brevity, each list is limited to ten items and sorted in descending order based on popularity. 
+To engage the audience, lists of "top ten restaurants" are also provided according to:
+
+- All time popularity
+- Those serving the most common dish types
+- Those serving the least common dish types
+
+Both the restaurant name and address are included so audiences can go and try these dishes if they wish. Each list is sorted in descending order based on popularity and limited to ten items for brevity. 
 
 As a bonus, an analysis is done on which cities have the most Uber Eats restaurants serving Indonesian food. An interactive map of one of the top cities, Seattle, is generated showing its restaurant locations.
 
