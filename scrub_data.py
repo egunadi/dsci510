@@ -24,7 +24,7 @@ menus_df = menus_df[menus_df['name']
                             == False]
 
 # scrub restaurants data
-category_scrub_list = ['bookstore', 'personal care', 'mercado express']
+category_scrub_list = ['bookstore', 'personal care', 'mercado express', 'malaysian']
 restaurants_df = restaurants_df[restaurants_df['category']
                         .str.contains('|'.join(category_scrub_list), na=False, case=False) 
                             == False]
