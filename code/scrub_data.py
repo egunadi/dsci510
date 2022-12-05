@@ -8,7 +8,7 @@ menus_df = pd.read_csv(menus_filepath, delimiter=',', encoding='utf-8')
 restaurants_df = pd.read_csv(restaurants_filepath, delimiter=',', encoding='utf-8')
     
 # scrub menus data
-name_filter_list = ['ayam', 'ikan', 'kambing', 'sapi', 'tahu', 'telur', 'tempe', 'udang', 'indonesia']
+name_filter_list = ['ayam', 'ikan', 'kambing', 'sapi', 'tahu', 'telur', 'tempe', 'udang', 'indonesia', 'gado', 'pecel', 'kangkung']
 menus_df = menus_df[(menus_df['category'].str.contains('indonesia', na=False, case=False)) |
                     (menus_df['name']
                         .str.contains('|'.join(name_filter_list), na=False, case=False))    ]

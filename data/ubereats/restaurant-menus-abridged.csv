@@ -1,6 +1,7 @@
 restaurant_id,category,name,description,price
 216,Entrees,opor ayam,"chicken slowly simmered in yellow curry sauce and herb, serve with yellow rice
 ",16.95 USD
+342,Nori Greens,Gado - Gado Salad,Japanese dumpling.,11.95 USD
 342,Nori Specialties,Ayam Penyet,Marinated beef rice bow.,15.95 USD
 342,Nori Specialties,Ikan Balado,Smashed fried spring chicken with hot chili sauce.,29.95 USD
 342,Nori Specialties,Sate Kambing,,19.95 USD
@@ -20,13 +21,19 @@ restaurant_id,category,name,description,price
 1974,Indonesian Entrees,Gado-Gado,Hot and spicy. Indonesian vegetarian delight with peanut sauce.,11.4 USD
 1974,Indonesian Entrees,3 Delight Curry,"Hot and spicy. Shrimp, beef, and chicken.",17.4 USD
 1974,Indonesian Entrees,Laksa with Chicken,Hot and spicy. Indonesian red curry soup with coconut milk.,12.6 USD
+2130,Burritos,Burrito Ahogado,"Filled with your choice of meat. Refried beans, lettuce, tomato, and cheese. Topped with melted cheese, mild red sauce, and sour cream (mild red sauce contains peanuts). Served with rice and refried beans or black beans.",17.95 USD
 2144,Fresh Gourmet Sandwiches,#6 Tempeh Avocado,"Smoky tempeh, vegan cheddar, avocado, tomato, romaine, southwest vegenaise served on your choice of white, multigrain or dark rye bread",9.95 USD
 2144,Hot Grilled Sandwiches,#15 Smoky Vegan Tempeh,"Smoky tempeh, avocado, spinach, red onion, tomato, vegenaise, served grilled on ciabatta",10.95 USD
 2144,Wraps,Smoky Tempeh,"Smoky tempeh, avocado, tomato, romaine, red onion, southwest vegenaise, spinach tortilla",8.95 USD
+4168,Signature Breakfast,Tomato Omelet Ahagado,"Heirloom tomato omelet set in a pool of warm marinara served with a hash brown cup filled with shaved Parmesan, herbed chèvre and Gorgonzola choice of toast or tortillas. Vegetarian.",15.0 USD
 4756,Picked for you,Tempeh Salad,"Grilled tempeh, our veggie mix, red onion, and tomatoes. Served on a bed of romaine lettuce.",8.25 USD
 4756,Salads,Tempeh Salad,"Grilled tempeh, our veggie mix, red onion, and tomatoes. Served on a bed of romaine lettuce.",8.25 USD
 6116,Appetizers,Teriyaki Tempeh Tacos,"Teriyaki garlic glazed tempeh, asian slaw, corn, and flour tortilla.",10.0 USD
+6390,Starters,Aquachile (Camarones Ahogados),"Shrimp mixed with cucumber, purple onion, lime, salt, pepper, tomato juice, and avocado.",10.0 USD
 6971,Extras,Tempeh Bacon,,2.5 USD
+7536,Tacos,Tacos Ahogados,"Three fried tacos, filled with potatoes or beans and topped with cabbage, red onion, house-made tomatoes sauce, and finalized with topped carnitas.",17.5 USD
+7657,Seafood,Camarones Ahogados,"Prawns cooked in lemon juice with onion, jalapeno slices and cucumber. ",23.95 USD
+7658,Seafood,Camarones Ahogados,"Prawns cooked in lemon juice with onion, jalapeno slices and cucumber. ",23.95 USD
 8537,Picked for you,Nasi Goreng Indonesia,"Indonesian style fried rice served with crackers and choice of chicken, beef, pork, tofu, or shrimp. Consists of corn fritter, spicy egg, and stir fry vegetables.",14.5 USD
 8537,Picked for you,Rendang Sapi,Tender dry beef curry slow cooked in our traditional coconut sauce with eggs and crackers.,17.5 USD
 8537,Picked for you,Kwetiau Goreng Indonesia,Indonesian style stir fry wide rice noodle.,14.5 USD
@@ -38,6 +45,7 @@ restaurant_id,category,name,description,price
 8537,Poultry and Meats,Ayam Goreng Penyet,Crushed fried chicken served with rice and chili paste.,13.95 USD
 8537,Poultry and Meats,Ayam Bakar Kecap,Grilled chicken served with sweet BBQ sauce.,14.95 USD
 8537,Poultry and Meats,Ayam Bakar Manado,Manadonese spicy BBQ chicken.,14.95 USD
+8537,Vegetables,Gado Gado,"Indonesian style warm salad with tofu, eggs, and onion crackers topped with peanut sauce.",12.95 USD
 8537,Mini Rijsttafel,MR Ayam Goreng Balado,Fried chicken topped with balado chili sauce.,16.5 USD
 8537,Mini Rijsttafel,MR Ayam Goreng Mbok Berek,Javanese fried chicken topped with deep fried savory crumbs.,16.5 USD
 8537,Mini Rijsttafel,MR Ayam Cabe Ijo,Padangnese chicken with green chili sauce.,16.5 USD
@@ -61,17 +69,22 @@ restaurant_id,category,name,description,price
 9439,Tea and Coffee,narasu's udhayam filter coffee 500grm,,9.99 USD
 9439,Frozen Products,Vadilal Srikand Elaichi,,7.99 USD
 9439,New Arrivals,narasu's udhayam filter coffee 500grm,,9.99 USD
+9813,Shrimp Starters - Appetizers ,Camarones Ahogados,"Large shrimp marinated in lime juice, spices, cilantro &amp; red onions.Serrano pepper slices. Served chilled with avocado, cucumbers and tomatoes on the side. Accompanied with freshly fried tortilla tostada, chips or Saltine crackers.",27.13 USD
 10100,More Ways to Yumm!,Tofu or Tempeh Yumm! Bento®,Organic Brown Rice or Thai Jasmine Rice served with our creamy ginger Asian Cole Slaw and a side of Yumm! Sauce.®,12.95 USD
 10100,Salad · Soup · Sides,Teriyaki Tempeh Skewer,Marinated organic tempeh skewer baked with teriyaki sauce. Topped with black sesame seeds.,5.0 USD
 10100,Extras,Side Tempeh,,5.0 USD
+10290,Mariscos (Seafood),Camarones Ahogados (Served Raw),,21.95 USD
 10393,SIGNATURE  NOODLE / FRIED RICE,Indonesia Fried Rice*,"Fried rice with egg, onion, scallion topped with crispy chicken and fried egg in special fried rice sauce",17.95 USD
 10420,Chefs special,Kalderetang kambing,Ghost stew,18.87 USD
+10595,Seafood,Drowned shrimp (Camarones Ahogados),"Shrimp only cooked in lime juice, purple onions, cilantro, avocado, cucumber and served with tostadas or tortilla chips.",19.99 USD
 10967,Salads,Tempting Tempeh BBQ,"*Limited time special! Cabbage, field greens, BBQ tempeh, potato chips, pickles, corn, red onion &amp; creamy slaw dressing",0.0 USD
 11117,Small Plates,Tempeh 'Bacon' and Brussels Sprout Fried Rice (GF),"Savory Tempeh, Brussel Sprouts and Carrot Cabbage Slaw with Indian Spices",12.0 USD
 11117,Soup and Salad,SM Roasted Beet and Tempeh Salad (GF),"with Pickled Daikon Radish, Carrots and Red Cabbage Over Mixed Greens Tossed in Coconut Poppy Seed Dressing",9.6 USD
+11197,Seafood Specialty,Camarones Ahogados,"Shrimp cooked in lime juice with onions and chile de árbol. Served with fruit only. The FDA advises the consumption of raw or undercooked meal, poultry, seafood, and eggs increases your risk of food borne illness.",21.0 USD
 11289,"Vegan, Veggie &amp; Meat",Chipotle Tempeh Burrito,"Served with spicy organic chipotle homemade tempeh, jalapenos, green bell peppers, grilled onions, rice, salsa Fresca, and chipotle aioli sauce on a flour tortilla.",9.0 USD
 11395,Sides,Tempeh,,3.5 USD
 11395,Sides,Tempeh Bacon,,4.0 USD
+11434,Vegetarian Burritos,Huevos Ahogados Burrito,"Sauted eggs in a special tomato sauce with cheese, refried beans, rice, pico de gallo, and wrapped in a flour tortilla.",7.25 USD
 11445,Picked for you,Tandoori Tempeh Curry,"Locally made squirrel and crow chickpea and quinoa tempeh in a smokey coconut milk-based sauce. 
 
 Plates served with Bengali 5-spice basmati rice, turmeric-mustard vinaigrette slaw, seasonal pickles, and spicy green chutney.  Low carb plate is served with double portion of slaw instead of rice. 
@@ -84,12 +97,15 @@ Plates served with Bengali 5-spice basmati rice, turmeric-mustard vinaigrette sl
 Rice Bowls served with just rice.",14.5 USD
 11445,A-La-Carte,Side of Tandoori Tempeh Curry,,5.0 USD
 11477,Picked for you,Ayam Goreng,,15.5 USD
+11477,Picked for you,Gado Gado,,14.0 USD
 11477,Cemilan,Sate Ayam,"three char-broiled chicken skewers with peanut sauce and acar (cucumber, carrot and chili relish)
 
 Contains peanuts/ Tree nuts",8.75 USD
 11477,Makanan,Ayam Goreng,,15.5 USD
 11477,Makanan,Rendang Sapi,,20.0 USD
+11477,Makanan,Gado Gado,,14.0 USD
 11477,Tambahan,Tempe Orek,,6.0 USD
+11477,Tambahan,Saus Kacang Gado Gado,,3.25 USD
 11479,Signature Burgers and Such,Tempeh BBQ Burger,"Soy-free garbonzo tempeh, vegan garlic aioli, topped with our BBQ sauce and vegan cheese. Lettuce, tomato, onion and pickle on the side.",11.5 USD
 11609,Wraps,BBQ Tempeh Wrap Regular,"BBQed tempeh, carrot-cabbage-apple coleslaw, tomatoes, and greens with garlic aioli",12.0 USD
 11836,Signature Burgers and Such,Tempeh BBQ Burger,"Soy-free garbonzo tempeh, vegan garlic aioli, topped with our BBQ sauce and vegan cheese. Lettuce, tomato, onion and pickle on the side.",11.5 USD
@@ -99,8 +115,19 @@ Contains peanuts/ Tree nuts",8.75 USD
 11925,RICE BOWLS,TEMPEH BOWL,"MARINATED TEMPEH W/ SCALLIONS, CUCUMBERS, SHAVED CARROT, KOREAN BBQ SAUCE, SERVED
 OVER RICE",8.5 USD
 12007,Vegan &amp; Vegetarian,Tempeh Taco,"Diced tempeh seared with peppers and onions, lightly tossed with chipotle sauce. Served on a corn tortilla with shredded lettuce and guacamole.",3.5 USD
+12402,Burritos,Burritos Hogado Pollo,,10.99 USD
+12402,Burritos,Burritos Hogado Carnitas,,10.99 USD
+12402,Burritos,Burritos Ahogado Asada,,11.99 USD
+12402,Burritos,Burritos Ahogado Pastor,,11.99 USD
+12402,Burritos,Burritos Ahogado Lengua,,11.99 USD
+12402,Burritos,Burritos Ahogado Adobada,,11.99 USD
+12402,Burritos,Burritos Ahogado Burria,,11.99 USD
+12402,Burritos,Burritos Ahogado Buche,,11.99 USD
+12402,Burritos,Burritos Ahogado Chorizo,,11.99 USD
+12405,Mexican dishes (Antojitos mexicanos), (Sopitos Delgados),,10.99 USD
 12467,Rice Dishes,Stir Fried Indonesia,"Sauteed mixed vegetables and shitake mushrooms in special Indonesian soy sauce and rice wine. Seasoned with sesame oil, ginger, garlic, and Indonesian chili sauce. Severed with steam rice.",13.99 USD
 12510,Rice Dishes,Stir Fried Indonesia,"Sauteed mix vegetables, shiitake mushroom in special Indonesian soy sauce, and rice wine. Seasoned with sesame oil, ginger, garlic, and Indonesian chili sauce. Served with white rice.",13.0 USD
+12530,Shrimp Starters -Appetizers,Camarones Ahogados,"Large shrimp marinated in lime juice, spices, cilantro &amp; red onions.Serrano pepper slices. Served chilled with avocado, cucumbers and tomatoes on the side. Accompanied with freshly fried tortilla tostada, chips or Saltine crackers.",22.94 USD
 12806,Picked for you,Grilled Tempe Rubin Sandwich ,"Blue Heron rye sourdough bread, pastrami style tempeh, provolone cheese, sauerkraut, soy-free vegenaise, vegan thousand island and stone ground mustard ",11.99 USD
 12806,Sandwiches,Grilled Tempe Rubin Sandwich ,"Blue Heron rye sourdough bread, pastrami style tempeh, provolone cheese, sauerkraut, soy-free vegenaise, vegan thousand island and stone ground mustard ",11.99 USD
 12915,Picked for you,Spicy Ayam Goreng,Malaysia style fried chicken wings,9.0 USD
@@ -122,6 +149,11 @@ OVER RICE",8.5 USD
 15432,Salad · Soup · Sides,Teriyaki Tempeh Skewer,Marinated organic tempeh skewer baked with teriyaki sauce. Topped with black sesame seeds.,7.15 USD
 15432,Extras,Side Tempeh,,4.25 USD
 15453,Signature Fried Rice,Indonesian Fried Rice,,15.95 USD
+18016,Aperitivos,Arepas con hogado,,7.8 USD
+18016,Aperitivos,Tostones con hogado,,7.8 USD
+18016,Entrees,Higado encebollado,,16.89 USD
+18016,Entrees,Higado criolla,,16.89 USD
+18588,Espresso Beverages,Affogado,Double shot of freshly roasted and ground espresso over 1 scoop of creamy vanilla ice cream.,7.0 USD
 19030,Science,Sapiens,"Sapiens by Yuval Noah Harari
 Trade Paperback",24.99 USD
 19030,Science, Sapiens: A Graphic History: The Birth of Humankind (Vol. 1),Sapiens: A Graphic History: The Birth of Humankind (Vol. 1),25.99 USD
@@ -150,28 +182,73 @@ Yuval Noah Harari (Author)
 21669,Indonesian Desserts,Es Kelapa,,7.95 USD
 21669,Indonesian Desserts,Es Cendol,,7.95 USD
 21669,Indonesian Desserts,Bubur Ketan Hitam,,7.95 USD
+21768,Entrée (Entrada),Higado Encebollado,"Grilled beef liver served with rice, refried beans, and salad.",15.5 USD
+21772,Entrées (Entradas),Higado Encebollado,"Grilled beef liver served with rice, beans, and salad.",15.5 USD
 22081,Ice Cream,Indonesian Vanilla Bean Ice Cream,,5.75 USD
+22449,Desserts,Merengado de Chirimoya,"Cherimoya mousse, cherimoya pulp with chantilly cream, dulce de leche and dehydrated meringue cookies.",13.0 USD
 23816,Noodles &amp; Rice,"Indonesian Fried Rice (Chicken, Sweet Soy Sauce, Fried Egg)",,14.25 USD
+24016,Tacos,Tacos de Higado Con Cebolla,Liver tacos cooked with onions. Served with corn tortillas.,14.0 USD
+26161,SALVADOREAN,HIGADO ENCEBOLLADO,,15.95 USD
+26170,Entrees,Higado Encebollado,"Grilled liver topped with sauteed onions, tomato, and brown gravy sauce. Served with rice and vegetables.",12.95 USD
+26448,Sandwiches,Vinny Bagadoughnuts,"Imported Ham, Salami, Capicolla, Pepperoni, Provolone, Lettuce, Tomato, and
+Italian Vinaigrette. Served hot or cold",13.99 USD
 26473,Malaysian Entrees,Kari Ayam,Chicken with spicy red curry in coconut milk gravy. Served with white rice.,15.95 USD
 26473,Malaysian Entrees,Ayam Halia,Sautéed chicken breast with sliced ginger scallions and brown sauce. Served with white rice.,15.95 USD
 26473,Malaysian Entrees,Ayam Basil,Sauteed chicken breast with basil leaves mushrooms carrots snow peas and baby corn. Served with white rice.,15.95 USD
+26596,Meat,Bife De Figado So Martinho,"Calf liver steak with onions, bacon, and aged red wine vinaigrette.",21.95 USD
+26630,Salvadoran Dishes,Higado de Res,Sauteed beef liver with onions. Served with rice and salad.,18.99 USD
 26832,Appetizer,Roti Telur,"Indian pancake stuffed with egg, onion, chili, and curry potato chicken as dipping sauce.",6.75 USD
 26832,Appetizer,Pandan Ayam,Deep fried marinated chicken wing wrapped with pandan leaves.,9.95 USD
 26832,Noodle Soup,Udang Mee Soup,Penangs yellow noodles served in shrimp broth with shrimp and bean sprout.,8.95 USD
+26924,Entrée (Platos De Entrada),Higado Encebollado,"Liver and onions with rice, beans, and tortillas.",15.0 USD
 29377,Large Plates,Tempeh and Soba Noodles,"Broccolini, mushrooms, root vegetables, roasted peppers, peanut sauce, scallion, and cilantro.",24.0 USD
 29610,Burgers and Sandwiches,Tempting Tempeh,"hot and tangy buffalo, red slaw, pineapple ",15.0 USD
 29761,Sandwiches,Tempeh Cubano,"Blackened tempeh, pickled jalapeno, olives, capers, artichoke hearts, tomato, brown mustard, and cheeze.",10.0 USD
 29761,Sandwiches,Tempeh Rueben,"Tempeh, artisan sauerkraut, cheeze, and vertical sauce served on rye.",9.5 USD
 29761,Sides,Fried Tempeh,,4.0 USD
 29761,Sides,Tempeh Bacon,,4.0 USD
+29763,Tacos,Higado,,3.77 USD
+29807,Venezuelan and Colombian Menu,Higado Encebollado,"Liver smothered in onions, with rice, salad and plantain",18.99 USD
 30462,Starters,Sate Ayam,Grill chicken skewer served with sweet and savory peanut sauce.,8.75 USD
+30462,Soup &amp; Salad,Gado Gado,"Indonesian salad of blanched vegetables, hard-boiled egg, fried tofu, cucumber, green leaves, tomato, crispy shallots, shrimp crackers in peanut sauce dressing.",10.75 USD
 30462,Seafood,Udang Saus Mentega,Jumbo prawn in a sweet buttery sauce with scallion and onion. Served with steam rice.,14.45 USD
 30462,Rice &amp; Noodles,Mie Ayam,"Savory Jakarta seasoned chicken egg noodle topped with fried wonton, baby bok choy, bean sprout, and chicken broth on the side.",12.05 USD
+30462,Vegetable,Cah Kangkung,Stir-fry water spinach in garlic sauce. Served with steam rice.,11.95 USD
+30539,Venezuelan and Colombian Menu,Higado Encebollado,"Liver smothered in onions, with rice, salad and plantain",18.99 USD
+30937,Featured Item,Burrito Ahogado,"Rice refried beans, tomato, onion, cilantro, avocado, cheese, sour cream, medium sauce, or hot sauce.",12.5 USD
+31373,Appetizers (Botanas),Camarones Ahogados,Shrimp in lime juice-Camaron curtido en Limon.,16.99 USD
 32580,Southeast Asia,Indonesia Fried Rice,"Indonesia spicy fried rice with chicken, beef, and shrimp.",13.0 USD
+32752,Carnes,Hígado Encebollado,,12.99 USD
+32786,Alacena / Pantry,Rafael Salgado Aceite de Oliva Extra Virgen,17 oz.,10.69 USD
+32786,Alacena / Pantry,Rafael Salgado Vino-de-Jerez DOP,8.5 oz.,4.39 USD
 32786,Delicatessen  🥪,Lightlife Tempeh Original,8 oz.,6.59 USD
 32786,Delicatessen  🥪,Lightlife Tempeh Three Grain,8 oz.,6.59 USD
+32915,Rice Bowls,Shougadon,Ginger pork bowl.,8.99 USD
+32948,Picked for you,Hut Burger - Jalapeno Cargado,"Premium Beef, Habanero Aioli, Grilled Jalapeno, Lettuce, Pepper Jack cheese.",8.99 USD
+32948,Hut Burger Combo,Hut Burger Jalapeno Cargado Meal,"Premium Beef, Habanero Aioli, Grilled Jalapeno, Lettuce, Pepper Jack cheese",8.99 USD
+32948,Hut Burger,Hut Burger - Jalapeno Cargado,"Premium Beef, Habanero Aioli, Grilled Jalapeno, Lettuce, Pepper Jack cheese.",8.99 USD
+33653,Traditional Plates,Higado Encebollado (Liver In Sauteed Onions),"Servida con arroz, frijoles, papa salada,, y ensalada served with rice, beans, salted potato, and salad.",13.99 USD
+34100,Platillos,Higado encebollado,Beef liver. Served with 4 tortillas rice and refried beans.,7.99 USD
+34100,Tacos,Taco de Higado ,"Served with lettuce, cheese, sour cream, and special sauce.",1.5 USD
 34830,Sides,Tempeh (a La Carte),,8.8 USD
+34956,Entrée Plates,Higado Encebollado Plate,"Two pieces liver with rice beans, salad, and 2 tortillas.",6.3 USD
+34959,Botanas,Ahogados Botana,,15.99 USD
+35140,Menú,Pepino Ahogado Enchilado,,5.5 USD
+35607,Breakfast,Huevos Ahogados,"Toasted roll, topped with beans, carnitas, pork rinds, fried eggs, and smothered in salsa. Served with chips.",12.0 USD
+35875,Antojitos Mexicanos,Higado Encebollado,Beef liver sauteed with onions,4.5 USD
+35875,Especialidades,Higado Encebollado,Beef Liver sauteed with onions,12.0 USD
+36011,Chicken Entrees,Chicken Delgado,"Sliced grilled chicken breast with sauteed onion, bell pepper, and tomatoes topped with jack cheese and avocado slices.",12.85 USD
+36410,De Nuestra Parrilla,Higado Encebollado,The liver cooked with onions and spices. Served with rice and refried beans.,11.95 USD
+36441,Guisos Hidalguenses,Hígado Encebollado,"Incluye arroz, frijoles y ensalada.",9.95 USD
+36441,Desayunos al Gusto,Huevos Ahogados,Con papitas fritas o frijoles.,6.95 USD
 36503,Picked for you,TEMPEH FRIES,"Sriracha fries topped with crushed grilled tempeh, cilantro, peanuts, sriracha sauce, hoisin sauce, and vegan garlic aioli",9.75 USD
 36503,SIDES,TEMPEH FRIES,"Sriracha fries topped with crushed grilled tempeh, cilantro, peanuts, sriracha sauce, hoisin sauce, and vegan garlic aioli",9.75 USD
+36616,Fajita Plate (Platillos De Fajita),Liver with Sauteed Onions (Higado Encebollado),,10.5 USD
+38753,Platillos,Higado Encebollado Platillo,Liver and cooked onions served with rice and beans.,11.98 USD
+38753,Tacos,Higado Encebollado Taco,,2.38 USD
+39084,Tortas,Higado Torta,Liver and onions.,6.5 USD
+39084,Tacos,Higado en Cebolla Taco,Liver with onions.,1.99 USD
+39084,Platillos,Higado Encebollado Platillo,Liver and cooked onions served with rice and beans.,10.0 USD
+40181,Mexican Plates,Higado Encebollado,"Liver. Encebollado, a la mexicana or Ranchero with rice and beans.",11.95 USD
 40224,Where'''s the Beef,Vegan Texas Tempeh Patty Berger," 1/3 LB Tempeh Patty with TX Cowtail Black Eyed Peas, Black Bean, and local seasonings on a Vegan  Bun with  all the Fixins' (No Sauce)
 ",8.19 USD
