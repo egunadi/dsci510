@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-indorestaurants_filepath = "data/indorestaurants.csv"
+indorestaurants_filepath = "../data/indorestaurants.csv"
 
 # import data
 indorestaurants_df = pd.read_csv(indorestaurants_filepath, delimiter=',', encoding='utf-8')
@@ -41,6 +41,25 @@ dish_count_df = generalized_dish_df.groupby('category')['restaurant_id'] \
                                     .reset_index(name = 'count') \
                                     .sort_values(['count'], ascending = False)
 
-# for bonus assignment: find seattle restaurants
-seattlerestaurants_df = indorestaurants_df[indorestaurants_df['full_address']
-                                            .str.contains('seattle, wa,', na=False, case=False)]
+# for bonus assignment: 
+# 1. find cities with most indonesian restaurants 
+indorestaurants_df['city'] = indorestaurants_df['full_address'].str.extract(r'(\w+, \w{2}), \d{5}', expand = False)
+
+indorestaurant_cities_df = indorestaurants_df.groupby('city')['restaurant_id'] \
+                                                .nunique() \
+                                                .reset_index(name = 'count') \
+                                                .sort_values(['count'], ascending = False)
+
+if __name__ == '__main__':
+    print(indorestaurant_cities_df.head(3))
+
+# OUTPUT
+""" 
+            city  count
+15  Portland, OR     12
+20   Seattle, WA      8
+4       City, UT      3
+"""
+
+# 2. find seattle restaurants
+seattlerestaurants_df = indorestaurants_df[indorestaurants_df['city'] == 'Seattle, WA']

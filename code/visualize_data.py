@@ -20,7 +20,7 @@ sns.despine(left=True, bottom=True)
 plt.xlabel('Number of Uber Eats Restaurant(s) Serving Dish')
 plt.ylabel('')
 plt.title('Most Common Indonesian Dishes Served in Uber Eats')
-ax.figure.savefig('visualization/dish-category-count.pdf', bbox_inches = 'tight')
+ax.figure.savefig('../result/dish-category-count.pdf', bbox_inches = 'tight')
 
 # for bonus assignment: map of indo restaurants in seattle
 seattle_map = folium.Map(   location = [47.6205, -122.3493], # space needle
@@ -33,4 +33,4 @@ def add_map_markers(restaurant, map):
 
 seattlerestaurants_df.apply(add_map_markers, map=seattle_map, axis='columns')
 
-seattle_map.save('visualization/seattle-indorestaurants-map.html')
+seattle_map.save('../result/seattle-indorestaurants-map.html')

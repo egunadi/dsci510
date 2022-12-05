@@ -1,16 +1,16 @@
 import pandas as pd
 
-ayam_filepath = "data/indorecipes/dataset-ayam.csv"
-ikan_filepath = "data/indorecipes/dataset-ikan.csv"
-kambing_filepath = "data/indorecipes/dataset-kambing.csv"
-sapi_filepath = "data/indorecipes/dataset-sapi.csv"
-tahu_filepath = "data/indorecipes/dataset-tahu.csv"
-telur_filepath = "data/indorecipes/dataset-telur.csv"
-tempe_filepath = "data/indorecipes/dataset-tempe.csv"
-udang_filepath = "data/indorecipes/dataset-udang.csv"
+ayam_filepath = "../data/indorecipes/dataset-ayam.csv"
+ikan_filepath = "../data/indorecipes/dataset-ikan.csv"
+kambing_filepath = "../data/indorecipes/dataset-kambing.csv"
+sapi_filepath = "../data/indorecipes/dataset-sapi.csv"
+tahu_filepath = "../data/indorecipes/dataset-tahu.csv"
+telur_filepath = "../data/indorecipes/dataset-telur.csv"
+tempe_filepath = "../data/indorecipes/dataset-tempe.csv"
+udang_filepath = "../data/indorecipes/dataset-udang.csv"
 
-abridged_menus_filepath = "data/ubereats/restaurant-menus-abridged.csv"
-abridged_restaurants_filepath = "data/ubereats/restaurants-abridged.csv"
+abridged_menus_filepath = "../data/ubereats/restaurant-menus-abridged.csv"
+abridged_restaurants_filepath = "../data/ubereats/restaurants-abridged.csv"
 
 # import data
 ayam_df = pd.read_csv(ayam_filepath, delimiter=',', encoding='utf-8')
@@ -43,5 +43,5 @@ indorestaurants_df = pd.merge(  menus_df, restaurants_df,
                                 suffixes=('_menuitem', '_restaurant')   )
 
 # export data
-indofoods_df.to_csv('data/indofoods.csv', encoding='utf-8', index=False)
-indorestaurants_df.to_csv('data/indorestaurants.csv', encoding='utf-8', index=False)
+indofoods_df.to_csv('../data/indofoods.csv', encoding='utf-8', index=False)
+indorestaurants_df.to_csv('../data/indorestaurants.csv', encoding='utf-8', index=False)

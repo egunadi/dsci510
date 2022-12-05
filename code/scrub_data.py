@@ -1,7 +1,7 @@
 import pandas as pd
 
-menus_filepath = "data/ubereats/restaurant-menus.csv"
-restaurants_filepath = "data/ubereats/restaurants.csv"
+menus_filepath = "../data/ubereats/restaurant-menus.csv"
+restaurants_filepath = "../data/ubereats/restaurants.csv"
 
 # import data
 menus_df = pd.read_csv(menus_filepath, delimiter=',', encoding='utf-8')
@@ -30,5 +30,5 @@ restaurants_df = restaurants_df[restaurants_df['category']
                             == False]
 
 # export data
-menus_df.to_csv('data/ubereats/restaurant-menus-abridged.csv', encoding='utf-8', index=False)
-restaurants_df.to_csv('data/ubereats/restaurants-abridged.csv', encoding='utf-8', index=False)
+menus_df.to_csv('../data/ubereats/restaurant-menus-abridged.csv', encoding='utf-8', index=False)
+restaurants_df.to_csv('../data/ubereats/restaurants-abridged.csv', encoding='utf-8', index=False)
