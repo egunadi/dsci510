@@ -19,16 +19,9 @@ To filter restaurants by those that serve Indonesian cuisine, all recipe files a
 
 A bar plot is procured showing the most common general dish types orderable to the least common. For each dish type, bar lengths represent the number of restaurants serving said dish type via Uber Eats. To emphasize the respective popularity and rarity of these dishes, bars are sorted in descending order.
 
-To engage the audience, lists of restaurants associated with both visualizations are also listed. Both the restaurant name and address are included so audiences can go and try these dishes if they wish. For brevity, each list is limited to ten items and sorted in descending order based on popularity. 
-To engage the audience, lists of "top ten restaurants" are also provided according to:
+For the most popular dish type, tempe (or "tempeh" in English), a list of available dishes and their restaurants are provided. Only restaurants with scores greater than or equal to 4.9 are shown.
 
-- All time popularity
-- Those serving the most common dish types
-- Those serving the least common dish types
-
-Both the restaurant name and address are included so audiences can go and try these dishes if they wish. Each list is sorted in descending order based on popularity and limited to ten items for brevity. 
-
-As a bonus, an analysis is done on which cities have the most Uber Eats restaurants serving Indonesian food. An interactive map of one of the top cities, Seattle, is generated showing its restaurant locations.
+As a bonus, an analysis is done on which cities have the most Uber Eats restaurants serving Indonesian food. An interactive map of one of the top cities, Seattle, is generated showing its restaurant locations. Although Portland has a higher restaurant count, Seattle was chosen due to personal preference.
 
 ## Running the Project
 
