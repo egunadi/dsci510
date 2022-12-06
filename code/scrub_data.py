@@ -15,19 +15,19 @@ menus_df = menus_df[(menus_df['category'].str.contains('indonesia', na=False, ca
 
 category_scrub_list = ['sake', 'medicines & treatments', 'bedding', 'storage & cleaning', 'home decor', 'wine', 'nursing & feeding', 'bookstore', 'retail']
 menus_df = menus_df[menus_df['category']
-                        .str.contains('|'.join(category_scrub_list), na=False, case=False) 
-                            == False]
+                    .str.contains('|'.join(category_scrub_list), na=False, case=False) 
+                        == False]
                             
 name_scrub_list = ['gekkeikan', 'ramayama', 'mudang', 'nuegados', 'nayama', 'bayamon', 'quesapizza', 'quesapita', 'mikan', 'ketchikan', 'haikan', 'ayamashe', 'fishikan', 'pallipalayam', 'tempered', 'temper', 'tempest', 'ayamase', 'shikanjavi', 'nuegados', 'bikaneri', 'kottayam', 'sapitos']
 menus_df = menus_df[menus_df['name']
-                        .str.contains('|'.join(name_scrub_list), na=False, case=False) 
-                            == False]
+                    .str.contains('|'.join(name_scrub_list), na=False, case=False) 
+                        == False]
 
 # scrub restaurants data
 category_scrub_list = ['bookstore', 'personal care', 'mercado express', 'malaysian']
 restaurants_df = restaurants_df[restaurants_df['category']
-                        .str.contains('|'.join(category_scrub_list), na=False, case=False) 
-                            == False]
+                                .str.contains('|'.join(category_scrub_list), na=False, case=False) 
+                                    == False]
 
 # export data
 menus_df.to_csv('../data/ubereats/restaurant-menus-abridged.csv', encoding='utf-8', index=False)
