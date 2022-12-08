@@ -65,7 +65,16 @@ if __name__ == '__main__':
     export_columns_list = ['Dish', 'Description', 'Restaurant', 'Rating', 'Address']
     tempe_df.loc[:, export_columns_list] \
             .drop_duplicates() \
-            .to_markdown('../result/tempe_dishes.md', index = False)
+            .to_html('../result/tempe_dishes.html', index = False)
+
+    with open('../result/tempe_dishes.html','r') as contents:
+        save = contents.read()
+    with open('../result/tempe_dishes.html','w') as contents:
+        contents.write("<div style='height: 200px; overflow: auto; width: fit-content'>")
+    with open('../result/tempe_dishes.html','a') as contents:
+        contents.write(save)
+    with open('../result/tempe_dishes.html','a') as contents:
+        contents.write("</div>")
 
 # for non tempe dishes, find menu items served by restaurants scored >= 4.9
 non_tempe_df = merged_generalized_dish_df[  (merged_generalized_dish_df['category'] != 'tempe') &
@@ -78,7 +87,16 @@ non_tempe_df = merged_generalized_dish_df[  (merged_generalized_dish_df['categor
 if __name__ == '__main__':
     non_tempe_df.loc[:, export_columns_list] \
                 .drop_duplicates() \
-                .to_markdown('../result/non_tempe_dishes.md', index = False)
+                .to_html('../result/non_tempe_dishes.html', index = False)
+
+    with open('../result/non_tempe_dishes.html','r') as contents:
+        save = contents.read()
+    with open('../result/non_tempe_dishes.html','w') as contents:
+        contents.write("<div style='height: 200px; overflow: auto; width: fit-content'>")
+    with open('../result/non_tempe_dishes.html','a') as contents:
+        contents.write(save)
+    with open('../result/non_tempe_dishes.html','a') as contents:
+        contents.write("</div>")
 
 # for bonus assignment: 
 # 1. find cities with most indonesian restaurants 
