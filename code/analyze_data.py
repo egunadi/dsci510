@@ -70,7 +70,7 @@ if __name__ == '__main__':
     with open('../result/tempe_dishes.html','r') as contents:
         save = contents.read()
     with open('../result/tempe_dishes.html','w') as contents:
-        contents.write("<div style='height: 200px; overflow: auto; width: fit-content'>")
+        contents.write("<div style='height: 400px; overflow: auto; width: fit-content'>")
     with open('../result/tempe_dishes.html','a') as contents:
         contents.write(save)
     with open('../result/tempe_dishes.html','a') as contents:
@@ -92,7 +92,7 @@ if __name__ == '__main__':
     with open('../result/non_tempe_dishes.html','r') as contents:
         save = contents.read()
     with open('../result/non_tempe_dishes.html','w') as contents:
-        contents.write("<div style='height: 200px; overflow: auto; width: fit-content'>")
+        contents.write("<div style='height: 400px; overflow: auto; width: fit-content'>")
     with open('../result/non_tempe_dishes.html','a') as contents:
         contents.write(save)
     with open('../result/non_tempe_dishes.html','a') as contents:

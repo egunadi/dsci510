@@ -8,7 +8,7 @@ Tempe (or "tempeh" in English) are fermented soybean blocks that have gone mains
 
 Here is a list of some tempe dishes available, along with their restaurants. Only restaurants rated greater than or equal to 4.9 are shown: 
 
-<div style='height: 200px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
+<div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Dish</th>
@@ -109,7 +109,7 @@ Here is a list of some tempe dishes available, along with their restaurants. Onl
 
 Most items are Western dishes (ex. taco or burger) repurposed to use tempe as its protein. By excluding tempe we can see a more accurate list of authentic Indonesian dishes served by highly rated restaurants:
 
-<div style='height: 200px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
+<div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Dish</th>
