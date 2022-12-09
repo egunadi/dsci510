@@ -143,8 +143,8 @@ Most items are Western dishes (ex. taco or burger) repurposed to use tempe as it
       <td>33 East 11400 South, Sandy, UT, 84070</td>
     </tr>
     <tr>
-      <td>Gado Gado</td>
-      <td>Indonesian salad of blanched vegetables, hard-boiled egg, fried tofu, cucumber, green leaves, tomato, crispy shallots, shrimp crackers in peanut sauce dressing.</td>
+      <td>Kwetiau Goreng</td>
+      <td>Stir-fry big flat rice noodles with egg, vegetables, and sliced chicken.</td>
       <td>Makanmakan Asian Streat Food Fare</td>
       <td>4.9</td>
       <td>33 East 11400 South, Sandy, UT, 84070</td>
@@ -152,6 +152,20 @@ Most items are Western dishes (ex. taco or burger) repurposed to use tempe as it
     <tr>
       <td>Mie Ayam</td>
       <td>Savory Jakarta seasoned chicken egg noodle topped with fried wonton, baby bok choy, bean sprout, and chicken broth on the side.</td>
+      <td>Makanmakan Asian Streat Food Fare</td>
+      <td>4.9</td>
+      <td>33 East 11400 South, Sandy, UT, 84070</td>
+    </tr>
+    <tr>
+      <td>Mie Babi Bali</td>
+      <td>Inspired by Balinese noodle style braised pork belly in a sweet-savory sauce.</td>
+      <td>Makanmakan Asian Streat Food Fare</td>
+      <td>4.9</td>
+      <td>33 East 11400 South, Sandy, UT, 84070</td>
+    </tr>
+    <tr>
+      <td>Nasi Goreng Jawa</td>
+      <td>Traditional Javanese fried rice with sliced chicken, vegetables, and spices, seasoned with sweet soy sauce and served with a fried egg, crispy shallots, cucumber pickle, and shrimp crackers.</td>
       <td>Makanmakan Asian Streat Food Fare</td>
       <td>4.9</td>
       <td>33 East 11400 South, Sandy, UT, 84070</td>

@@ -38,6 +38,7 @@ def analyze_data():
 
     generalized_dish_df = pd.DataFrame( generalized_dish_set,
                                         columns = ['restaurant_id', 'name_menuitem', 'category']    )
+    generalized_dish_df.to_csv('../data/generalized_dish.csv', encoding='utf-8', index=False)
 
     # group dishes by category and count number of restaurants serving them
     dish_count_df = generalized_dish_df.groupby('category')['restaurant_id'] \
