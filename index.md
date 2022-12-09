@@ -106,6 +106,7 @@ Here is a list of some tempe dishes available, along with their restaurants. Onl
   </tbody>
 </table></div>
 
+<br>
 
 Most items are Western dishes (ex. taco or burger) repurposed to use tempe as its protein. By excluding tempe we can see a more accurate list of authentic Indonesian dishes served by highly rated restaurants:
 
@@ -172,6 +173,7 @@ Most items are Western dishes (ex. taco or burger) repurposed to use tempe as it
   </tbody>
 </table></div>
 
+<br>
 
 # Bonus Assignment: Interactive Map of Uber Eats Restaurants Serving Indonesian Food in Seattle
 

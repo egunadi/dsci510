@@ -1,8 +1,6 @@
-# DSCI510 Final Project: Most and Least Common Indonesian Dishes Orderable via Uber Eats USA
+# DSCI510 Final Project: Most Common Indonesian Dishes Orderable via Uber Eats USA
 
-https://github.com/egunadi/dsci510
-
-My main goal is to determine which dishes are most and least common in these restaurants. For both categories, a listing of their associated restaurants will also be provided. At least two datasets will be used, one containing Uber Eats restaurant menu items and another a comprehensive list of Indonesian dishes. By joining the two sets, we can procure a list of Indonesian dishes orderable via Uber Eats, along with their associated restaurants. 
+My main goal is to determine which dishes are most common in these restaurants and provide a listing of restaurants serving them. At least two datasets will be used, one containing Uber Eats restaurant menu items and another a comprehensive list of Indonesian dishes. By joining the two sets, we can procure a list of Indonesian dishes orderable via Uber Eats, along with their associated restaurants. 
 
 The first dataset of interest is "Uber Eats USA Restaurants and Menus" from Kaggle <https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus>. This data was scraped from <https://www.ubereats.com> and comprises of two CSV files:
 
