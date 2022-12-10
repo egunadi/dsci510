@@ -1,6 +1,6 @@
 import pandas as pd
 
-def scrub_data():
+def scrub_ubereats_data():
     menus_filepath = "../data/ubereats/restaurant-menus.csv"
     restaurants_filepath = "../data/ubereats/restaurants.csv"
 
@@ -35,4 +35,4 @@ def scrub_data():
     restaurants_df.to_csv('../data/ubereats/restaurants-abridged.csv', encoding='utf-8', index=False)
 
 if __name__ == '__main__':
-    scrub_data()
+    scrub_ubereats_data()

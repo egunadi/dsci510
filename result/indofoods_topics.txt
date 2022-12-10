@@ -1,225 +1,225 @@
 ✨Topic 0✨
 
-['ikan', 'bumbu', 'kuning', 'patin', 'bandeng', 'pindang', 'kuah', 'tongkol', 'nila', 'gulai', 'pedas', 'asem', 'kakap', 'kembung', 'acar', 'santan', 'bakar', 'tuna', 'sup', 'mas']
- 0.957 Ikan Nila bumbu acar atw Pesmol ikan Nila
- 0.9512 Sup Ikan Patin "Kelo Mrica Khas Pati"
- 0.9512 Sasangan Patin khas Kalteng (Kab. Barito Utara)
- 0.9512 Kepala Tongkol Kuah Asam Pedas Belimbing Wuluh
- 0.9512 Ikan tuna masak kuning kemangi (bumbu rujak)
+['sapi', 'sop', 'iga', 'daging', 'bakso', 'sup', 'kambing', 'tulang', 'ayam', 'kuah', 'kaki', 'sayur', 'dan', 'sederhana', 'kenyal', 'abon', 'msg', 'pindang', 'simple', 'buntut']
+ 0.9642 Sop daging/ buntut/ iga sapi spesial full rempah-rempah by mimi
+ 0.9604 STEAK KAMBING(bisa juga dengan daging sapi atau ayam)
+ 0.9604 Sop buntut sapi/tulang iga sapi sederhana ala keluarga mch
+ 0.9496 Sup senerek (kacang merah) balungan /tetelan sapi
+ 0.9496 Sop ala pak min klaten (daging sapi)
 
 ✨Topic 1✨
 
-['ayam', 'rica', 'geprek', 'kecap', 'bumbu', 'bakar', 'pedas', 'soto', 'opor', 'kuning', 'panggang', 'kemangi', 'suwir', 'bubur', 'kampung', 'goreng', 'teflon', 'ceker', 'ungkep', 'simple']
- 0.9435 Opor Ayam edisi rindu masakan ibu
- 0.9435 Ayam suir sambal matah khas bali
- 0.9435 Ayam rica-rica kemangi pedes nampol
- 0.9435 Ayam geprek sambel judes (juara pedes)
- 0.9435 Ayam geprek crispy sambel trasi bali
+['kambing', 'sate', 'tongseng', 'kitaberbagi', 'daging', 'gulai', 'bumbu', 'sapi', 'ala', 'kecap', 'sop', 'gule', 'tanpa', 'goreng', 'santan', 'empuk', 'khas', 'tengkleng', 'krengsengan', 'simpel']
+ 0.9657 Bistik sapi empuk. Dengan tips memasak daging agar cepat empuk
+ 0.9575 Tongseng Kambing Pedas "Praktis ala Cak Har Ngawi"
+ 0.9575 Tongseng Kambing + Bumbu Kare Instan (bau kambing berkurang)
+ 0.9575 Tongseng daging sapi tanpa santan dan tanpa msg
+ 0.9575 Sop Kambing Simpel Banget 🐏~ empuk, gurih, no bau, no msg 🛎😋💫
 
 ✨Topic 2✨
 
-['tahu', 'isi', 'telur', 'sayur', 'ayam', 'labu', 'tempe', 'goreng', 'siam', 'gulai', 'mie', 'kari', 'udang', 'telor', 'roti', 'lumpia', 'pempek', 'kukus', 'dan', 'kentang']
- 0.9607 Tahu telur pedas (diet tnp minyak, tnp garam gula)
- 0.9607 Pempek dos isi tahu lembut cocok untuk bakul jualan
- 0.956 Mie Gelas Kuah Isi Sayuran Telur Sosis #PR_AnekaMieKuah
- 0.95 Pempek kulit tenggiri dan pempek kapal selam
- 0.95 Lumpia goreng ebi ayam telur bengkoang #homemadebylita
+['ala', 'ayam', 'tempe', 'anak', 'mama', 'tahu', 'dapur', 'resep', 'bunda', 'rumahan', 'kos', 'kost', 'kitchen', 'penyet', 'fitri', 'kina', 'mertua', 'woku', 'kosan', 'ummu']
+ 0.9596 Dada Ayam Fillet Bumbu Richeese Factory ala Ummu Rasya
+ 0.9487 Tahu-tempe Tek tek (ala anak kuliahan)
+ 0.9487 🍔 Mini Burger Tempe Ayam ala Dapur Fitri 🍔
+ 0.9487 🍔 Mini Burger Tempe Ayam ala Dapur Fitri 🍔
+ 0.9407 Tahu n tempe penyet resep bedinde #parts 6#
 
 ✨Topic 3✨
 
-['egg', 'tuna', 'anak', 'ala', 'beef', 'telur', 'menu', 'diet', 'chicken', 'ketopad', 'mayo', 'pizza', 'salted', 'sandwich', 'keto', 'kost', 'untuk', 'cheese', 'roll', 'kos']
- 0.9676 Telur keju leleh ala debm menu diet menu sarapan diet debm
- 0.9645 Kentang Bayam Telur ala orang Jerman (cocok untuk menu diet)
- 0.9607 Menu Sarapan Sehat (Scramble Egg, Potato Wedges, Boiled Spinach)
- 0.95 Thai Sun Egg (inspired from Webtoon Lazy Cooking)
- 0.95 Sushi cheese scramble egg, squid and mashroom #keto
+['rica', 'ayam', 'daun', 'tahu', 'kemangi', 'pepes', 'singkong', 'jeruk', 'tanpa', 'udang', 'rolade', 'bawang', 'air', 'kelapa', 'mix', 'ampela', 'botok', 'kupat', 'wijen', 'gulai']
+ 0.9405 Ceker dan sayapp ayam pedes gilaa
+ 0.9405 Ayam rica-rica kemangi pedes nampol
+ 0.9295 Rolade Daun Singkong dan Tahu
+ 0.9295 Rica Rica Ayam mantab Huhahnya 🔥 #14
+ 0.9295 Plecingan ayam mix ati rempelo
 
 ✨Topic 4✨
 
-['tempe', 'tahu', 'oseng', 'bacem', 'tumis', 'pedas', 'perkedel', 'buncis', 'manis', 'notitle', 'kecap', 'bakso', 'sederhana', 'nugget', 'kerang', 'dan', 'jamur', 'sayur', 'gembus', 'orem']
- 0.9613 Sayur Tempe + tahu kecap pedas seperti di tampar sendal jepit
- 0.9508 Tumis pakis - tempe tahu oseng ala mamais
- 0.9508 Tumis pakis - tempe tahu oseng ala mamais
- 0.9508 Oseng-oseng tempe gembus pedas manis #alamamakila
- 0.9508 Bacem Tahu&Tempe Tanpa Kecap (a.k.a Bacem ndeso)
+['telur', 'orak', 'arik', 'ceplok', 'telor', 'buncis', 'kecap', 'balado', 'tahu', 'masak', 'tumis', 'pindang', 'wortel', 'sosis', 'dan', 'kornet', 'sarden', 'kol', 'tomat', 'bakso']
+ 0.9488 Orak-arik 😅 sayur buncis, telur dan wortel
+ 0.9408 Tumis Wortel Buncis Telor Orak Arik
+ 0.9408 Telur Ceplok kecap Cepat Kilat #pr_masakanawalanhurufT
+ 0.9408 Tahu telur beujeUkkkk (hancur)versi sundaan
+ 0.9408 Oseng buncis wortel telur orak arik
 
 ✨Topic 5✨
 
-['tumis', 'udang', 'tahu', 'telur', 'buncis', 'sawi', 'dan', 'cah', 'sayur', 'tempe', 'wortel', 'jagung', 'ayam', 'jamur', 'bakso', 'kangkung', 'sup', 'putih', 'toge', 'oseng']
- 0.9629 Tumis jagung, tauge, jamur tiram, udang, telur puyuh, tomat
- 0.9584 Tumis Phok Coy Udang Wortel Plus Bawang Bombay
- 0.9584 Tumis brokoli udang kembang tahu nikmat mudah #homemadebylita
- 0.9584 Sup Ayam Sosis Jagung Juara👌🏻 mudah dan nikmat
- 0.9584 Cah Jasakuwot (jagung, sawi, kubis, wortel dan telor)
+['ayam', 'soto', 'mie', 'bandung', 'lele', 'kuah', 'ala', 'khas', 'sapi', 'goreng', 'santan', 'bening', 'mangut', 'telor', 'pecel', 'timur', 'jawa', 'ketopad', 'kaki', 'keto']
+ 0.9595 Ayam Goreng Ngo Hiong Keto | #keto #ketofy #ketopad #ketofastosis
+ 0.9485 Sasangan Patin khas Kalteng (Kab. Barito Utara)
+ 0.9485 Cordero asado a las finas hierbas/Baked lamb in spices
+ 0.9404 Soto bandung, soto sapi, soto shay
+ 0.9404 Kaki Naga Lele #keto #ketofy #ketopad
 
 ✨Topic 6✨
 
-['sapi', 'daging', 'sop', 'iga', 'kambing', 'asem', 'sup', 'soto', 'tulang', 'tongseng', 'sayur', 'bakso', 'tetelan', 'ayam', 'rawon', 'kuah', 'kaki', 'bening', 'kitaberbagi', 'gulai']
- 0.962 Sup mie & daging sapi,niu row mien,(taiwan food)
- 0.962 Sop buntut sapi/tulang iga sapi sederhana ala keluarga mch
- 0.9574 #KitaBerbagi Soup Iga dan daging Kambing kuah susu
- 0.9517 Soto Betawi Daging Sapi Kuah Santan Endeuss
- 0.9517 Sop ala pak min klaten (daging sapi)
+['udang', 'saus', 'tiram', 'saos', 'ayam', 'padang', 'telur', 'asin', 'mentega', 'pedas', 'tumis', 'teriyaki', 'goreng', 'crispy', 'tahu', 'brokoli', 'telor', 'jamur', 'tofu', 'fillet']
+ 0.942 Udang telur asin (semua bagian dipakai)
+ 0.942 Udang Goreng Tepung Saos Tiram Pedas
+ 0.942 Jamur Ayam Crispy Saus Tiram Pedas
+ 0.942 Cah Kangkung Saos Tiram Udang & Sosis
+ 0.942 Cah brokoli udang saus mentega (saori)
 
 ✨Topic 7✨
 
-['sapi', 'tanpa', 'bakso', 'ayam', 'lele', 'msg', 'santan', 'tongseng', 'mangut', 'kambing', 'non', 'kenyal', 'daging', 'kuah', 'keto', 'homemade', 'ala', 'pecel', 'dengan', 'blender']
- 0.9603 Cara Merebus & Menyimpan Susu Sapi Murni yang Baik & Benar
- 0.9603 Bakso sapi kenyal (memakai daging frozen)-recook Fitri Sasmaya
- 0.9555 Bakso Asa (Ayam Kampung & Sapi) bisa buat MPasiAnak
- 0.9495 Bakso Sapi Keto #keto #ketopad #ketofy #ketofastosis
- 0.9495 Bakso Sapi Kenyaal Enak (tanpa baking powder)
+['cabe', 'ijo', 'tahu', 'tempe', 'garam', 'hijau', 'tumis', 'cabai', 'udang', 'oseng', 'ayam', 'crispy', 'bawang', 'lombok', 'sapi', 'sayur', 'kecap', 'merah', 'masak', 'teri']
+ 0.9491 Tetelan Sapi Tempe Masak Kecap Cabe Hijau
+ 0.9491 Tetelan Sapi Tempe Masak Kecap Cabe Hijau
+ 0.9491 Oseng-oseng tempe cabe hijau pedas mantabbb
+ 0.9411 Tumis Terong Ijo Tempe Teri Jengkol
+ 0.9411 Tumis sawi ayam potong dadu#ketogenic
 
 ✨Topic 8✨
 
-['sapi', 'daging', 'hitam', 'lada', 'rendang', 'semur', 'tumis', 'ayam', 'kentang', 'brokoli', 'dendeng', 'kambing', 'bakso', 'ala', 'teriyaki', 'saus', 'steak', 'bistik', 'dan', 'simple']
- 0.9568 Beef for makaroni, spagheti dll (masak daging sapi giling)
- 0.9509 Tumis sapi gurih ala vietnam (vietnamese beef)
- 0.9509 Tumis daging sapi bombay lada hitam Simple
- 0.9509 Semur daging sapi cincang dan kentang (#pr_recookmantenelis)
- 0.9509 Semur daging sapi ala Hongkong (Ngau lam)
+['tempe', 'tahu', 'orek', 'goreng', 'bacem', 'kering', 'mendoan', 'pedas', 'sambal', 'manis', 'teri', 'tepung', 'sambel', 'kacang', 'basah', 'isi', 'kemangi', 'jeletot', 'melet', 'bumbu']
+ 0.9511 Tempe goreng isi sambal aka Tempe Mercon
+ 0.9511 Bacem Tahu&Tempe Tanpa Kecap (a.k.a Bacem ndeso)
+ 0.9435 Tempe Tepung isi sambal (Tempe Kekinian)
+ 0.9435 Tempe Orek (Kecap) Simpel -bahanseadanya,hehe-
+ 0.9435 Stick Tempe Simple Ala Eghi Alexyer
 
 ✨Topic 9✨
 
-['ikan', 'tongkol', 'sambal', 'balado', 'suwir', 'kembung', 'pedas', 'goreng', 'sarden', 'nila', 'ijo', 'pindang', 'tumis', 'asin', 'cabe', 'pete', 'kemangi', 'dabu', 'matah', 'sambel']
- 0.9566 Grilled Dori with Sambal Matah / Dori Panggang Sambal Matah
- 0.9507 Masak habang haruan (masak merah ikan gabus)
- 0.9507 Iwak lundu betu'up a.k.a tumis ikan keting #herinwidodo
- 0.9507 Haruan Panggang Kaluk | Ikan Gabus Panggang Kaluk
- 0.943 Tumis Ikan Pe (Ikan Pari) Bumbu Pedas
+['tahu', 'tumis', 'udang', 'telur', 'jamur', 'sawi', 'cah', 'ayam', 'dan', 'buncis', 'sayur', 'jagung', 'putih', 'wortel', 'brokoli', 'sup', 'toge', 'bakso', 'bawang', 'kangkung']
+ 0.9619 Tumis kuah baby kailan udang lengkap enak mudah #homemadebylita
+ 0.9619 Tumis jagung, tauge, jamur tiram, udang, telur puyuh, tomat
+ 0.9573 Tumis Phok Coy Udang Wortel Plus Bawang Bombay
+ 0.9573 Tumis brokoli udang kembang tahu nikmat mudah #homemadebylita
+ 0.9573 Tahu bejek / tumis tahu pedas sederhana dan nikmat
 
 ✨Topic 10✨
 
-['orak', 'arik', 'telur', 'tahu', 'buncis', 'telor', 'sup', 'wortel', 'pedas', 'tumis', 'sosis', 'kornet', 'jjigae', 'sundubu', 'korea', 'kol', 'sayuran', 'dan', 'ala', 'omelet']
- 0.9495 Sundubu Jjigae (Sup Tahu Pedas ala Korea)
- 0.9495 Sundubu Jjigae (Sup Tahu Pedas ala Korea)
- 0.9495 Sundubu Jjigae (Sup Tahu Pedas ala Korea)
- 0.9495 Orak-arik Telur + Wortel + Jamur 🍄 Brown Shimeji 🍄
- 0.9495 Orak-arik 😅 sayur buncis, telur dan wortel
+['beef', 'teriyaki', 'chicken', 'egg', 'steak', 'tuna', 'ala', 'sauce', 'shrimp', 'spicy', 'cheese', 'spaghetti', 'salmon', 'roll', 'crispy', 'simple', 'katsu', 'potato', 'mayo', 'salted']
+ 0.9609 Pho Bo Khong Pho (Beef Pho without Pho) #ketopads_cp_anekasoup
+ 0.9562 Spicy chicken wing with scrumble egg and vegetable + fried fries
+ 0.9562 Browned Butter Honey Garlic Tuna with Spaghetti Aglio E Olio
+ 0.9562 Beef Teriyaki with Egg Love #ketofriendly #ketofy #debm #hotplate
+ 0.9503 Scramble Egg Beef Chick #ketofriendly #ketofy #debm
 
 ✨Topic 11✨
 
-['tahu', 'daun', 'pepes', 'kemangi', 'udang', 'telur', 'jamur', 'ayam', 'telor', 'singkong', 'rolade', 'jeruk', 'botok', 'bawang', 'sederhana', 'bejek', 'selimut', 'teri', 'tempe', 'goreng']
- 0.9604 Botok Tahu Tempe Udang Teri (tanpa bungkus daun pisang)
- 0.9497 Botok Tempe + Daun Singkong tanpa Daun Pisang
- 0.9418 Tempe Selimut (tempe bungkus daun jati)
- 0.9418 Rolade Daun Singkong Mandi Tahu Telur
- 0.9418 Rolade Daun Singkong Mandi Tahu Telur
+['ayam', 'nugget', 'geprek', 'tempe', 'super', 'simple', 'chicken', 'mie', 'keju', 'wortel', 'ala', 'gampang', 'simpel', 'homemade', 'made', 'home', 'bubur', 'crispy', 'banget', 'sederhana']
+ 0.955 Hainan Chicken - Ayam Rebus Hainan - Phak Cam Kee
+ 0.9409 Onigiri ayam enak gak pake bohong
+ 0.9409 Ayam Kentucky Sederhana Kresssnya Tahan Lamaaa
+ 0.9299 Tempe Pencur (dipenyet sampai ancur)
+ 0.9299 Risoles Rogut Ayam (Super Creamy)
 
 ✨Topic 12✨
 
-['tahu', 'bola', 'isi', 'perkedel', 'martabak', 'simple', 'aci', 'sapo', 'ayam', 'telur', 'crispy', 'telor', 'udang', 'ala', 'bulat', 'bandung', 'fantasi', 'gejrot', 'sosis', 'walik']
- 0.9613 Tahu Rambutan isi telor puyuh isi sosis (Tahu Mie)
- 0.9567 Bola-Bola Tahu Isi Udang & Sosis 🍤 AKA Perkedel
- 0.9509 Nugget ceria (tahu, wortel, telur, mie & makaroni) 😄
- 0.9431 TAMIMASO aka tahu mie makaroni sosis
- 0.9431 Tahu telor home made super simple
+['nasi', 'hitam', 'lada', 'sapi', 'goreng', 'kambing', 'kebuli', 'daging', 'ayam', 'kitaberbagi', 'simple', 'cooker', 'rice', 'saus', 'kari', 'com', 'magic', 'ala', 'magicom', 'saos']
+ 0.9493 Nasi goreng kambing ala kebon sirih #KitaBerbagi
+ 0.9493 Daging sapi paprika ijo saos lada hitam
+ 0.9413 Steak Daging Sapi Lada Hitam Yummy 👍
+ 0.9413 Sapi Lada Hitam - Chef Steby Rafael
+ 0.9413 Sapi lada hitam ala Nita Chan
 
 ✨Topic 13✨
 
-['nasi', 'kambing', 'goreng', 'kebuli', 'sate', 'kitaberbagi', 'kita', 'ala', 'berbagi', 'sapi', 'kari', 'otak', 'cooker', 'daging', 'rice', 'com', 'magic', 'magicom', 'sederhana', 'kabsah']
- 0.9644 Nasi Kebuli Magic Com Ekspress ala Dapur Ken (beras biasa)
- 0.9499 Nasi goreng kambing ala kebon sirih #KitaBerbagi
- 0.9499 Machboos al Laham (nasi kebuli kambing khas Kuwait)
- 0.9421 Sate Kambing Ala Happy Call #KitaBerbagi
- 0.9421 Nasi mandy beras basmati kambing #kitaberbagi
+['ayam', 'bumbu', 'kecap', 'bakar', 'pedas', 'kampung', 'udang', 'panggang', 'kuning', 'goreng', 'ungkep', 'suwir', 'madu', 'ceker', 'soto', 'teflon', 'bubur', 'opor', 'masak', 'asem']
+ 0.9416 Ayam suwir bumbu merah versi Nyemek
+ 0.9308 Udang bakar kecap versi teflon
+ 0.9308 Super simple ayam bakar teflon
+ 0.9308 Soto ayam untuk kemanten baru
+ 0.9308 Soto Ayam Ceker Bumbu Koya
 
 ✨Topic 14✨
 
-['tempe', 'cabe', 'kacang', 'tumis', 'tahu', 'panjang', 'ijo', 'oseng', 'udang', 'garam', 'hijau', 'sapi', 'lodeh', 'cabai', 'kulit', 'dan', 'sayur', 'kikil', 'kecap', 'merah']
- 0.9615 Sayur Lodeh Pedas Jawa (kacang panjang terong tahu tempe)
- 0.9615 Oseng cecek (kulit sapi) mix tahu kering (tahu apung)
- 0.9569 Tumis kacang panjang, tempe dan KUTANG (kulit tangkil) 😄
- 0.9569 Lodeh Tempe Mix Kulit Sapi / Cecek (Bahasa Jawa)
- 0.9569 Lodeh Tempe Mix Kulit Sapi / Cecek (Bahasa Jawa)
+['manis', 'asam', 'pedas', 'udang', 'saus', 'ikan', 'gurame', 'ayam', 'tepung', 'saos', 'bakar', 'nila', 'padeh', 'simple', 'goreng', 'patin', 'tuna', 'kecap', 'nanas', 'kuah']
+ 0.9496 Udang tepung saus asam manis / udang tepung
+ 0.9417 Udang sungai baliem asam manis pedas
+ 0.9417 Udang Saus Asam Manis ala Kedai
+ 0.9417 Udang jagung saus pedas asam manis🍴
+ 0.9417 Udang goreng tepung with saos asam manis
 
 ✨Topic 15✨
 
-['telur', 'tahu', 'ayam', 'bumbu', 'tempe', 'telor', 'kecap', 'semur', 'balado', 'ceplok', 'dan', 'kentang', 'kuah', 'kuning', 'bali', 'santan', 'masak', 'opor', 'sayur', 'puyuh']
- 0.9626 Pecel Tempe Terong Telor Ala Jawa Timur (Kuah Santan)
- 0.9626 Pecel Tempe Terong Telor Ala Jawa Timur (Kuah Santan)
- 0.9626 Lunchboxset ala dw's food(rendang ayam,gulai kapau,balado telur)
- 0.9524 Telur puyuh with tahu kuning bumbu rujak kuah
- 0.9524 Tahu tempe telor bumbu bali ala mommies
+['udang', 'menu', 'diet', 'telur', 'pempek', 'ikan', 'tenggiri', 'untuk', 'anak', 'msg', 'ayam', 'dan', 'bola', 'isi', 'sehat', 'sayur', 'tuna', 'kukus', 'balita', 'non']
+ 0.9694 Pempek dos isi telur dan tanpa isi cocok untuk bakul jualan+tips
+ 0.9667 Telur keju leleh ala debm menu diet menu sarapan diet debm
+ 0.9667 Pempek Dos (tanpa ikan), isi tumis pepaya muda, telor dan bentuk
+ 0.9635 Bola bola ayam udang (bakso ayam udang sayur) menu anak
+ 0.9486 Salmon herb
+Menu diet,sehat,cpt masaknya
 
 ✨Topic 16✨
 
-['ala', 'ayam', 'goreng', 'mama', 'bunda', 'tempe', 'resep', 'mie', 'udang', 'dapur', 'kitchen', 'khas', 'penyet', 'aceh', 'tepung', 'kfc', 'resto', 'rumahan', 'fitri', 'kina']
- 0.9605 Cara membuat tahu bakso ayam goreng krenyes, resep asli
- 0.9557 Pheep Sabee Boh Trueng Tinyok (Udang Sabu Aceh)
- 0.9557 Ayam Goreng Pandan Thailand 
-(Gai Hor Bai Toey)
- 0.9497 🍔 Mini Burger Tempe Ayam ala Dapur Fitri 🍔
- 0.9497 🍔 Mini Burger Tempe Ayam ala Dapur Fitri 🍔
+['telur', 'dadar', 'gulung', 'telor', 'sosis', 'ala', 'goreng', 'isi', 'roti', 'rebus', 'keju', 'tuna', 'ketopad', 'cah', 'padang', 'makaroni', 'mie', 'nasi', 'korea', 'sandwich']
+ 0.9603 Telur rebus cuma 5 menit(bener2 hemat gas dan waktu)
+ 0.9603 [Hidangan Energi] Telor Setengah Matang / Half Boiled Egg #homemadebylita
+ 0.9556 Telur dadar gulung korea ala ala (Gyeran Mari)
+ 0.9556 Salmon telur nasi merah (sushi ala-ala) #homemadebylita
+ 0.9496 Tetukeri (telur tuna keju nori) #ketopad_cp_telur
 
 ✨Topic 17✨
 
-['beef', 'teriyaki', 'chicken', 'steak', 'ala', 'sauce', 'spicy', 'spaghetti', 'crispy', 'simple', 'shrimp', 'katsu', 'salmon', 'tuna', 'yakiniku', 'wings', 'bulgogi', 'pepper', 'black', 'lamb']
- 0.9613 Pho Bo Khong Pho (Beef Pho without Pho) #ketopads_cp_anekasoup
- 0.9567 Spicy chicken wing with scrumble egg and vegetable + fried fries
- 0.9567 Browned Butter Honey Garlic Tuna with Spaghetti Aglio E Olio
- 0.9508 Bekal Praktis Beef Patty Burger Teriyaki #MaMaKei
- 0.9508 Beef Sausage Fondue with bbq sauce and mushroom sauce
+['tempe', 'tumis', 'oseng', 'tahu', 'kacang', 'panjang', 'udang', 'pedas', 'buncis', 'dan', 'kecap', 'sayur', 'labu', 'lodeh', 'siam', 'kikil', 'kulit', 'pare', 'campur', 'gulai']
+ 0.9564 Tumis Udang Tempe Kacang Panjang Rasa Pedas Manis
+ 0.9564 Tumis Udang Tempe Kacang Panjang Rasa Pedas Manis
+ 0.9564 Tumis tempe labu siam dan cecek (kulit sapi)
+ 0.9564 Tumis kacang panjang, tempe dan KUTANG (kulit tangkil) 😄
+ 0.9564 Lodeh Tempe Mix Kulit Sapi / Cecek (Bahasa Jawa)
 
 ✨Topic 18✨
 
-['telur', 'dadar', 'gulung', 'telor', 'sosis', 'ala', 'rebus', 'isi', 'keju', 'cah', 'pindang', 'toge', 'padang', 'balado', 'makaroni', 'korea', 'debm', 'egg', 'gyeran', 'mari']
- 0.9609 Telur rebus cuma 5 menit(bener2 hemat gas dan waktu)
- 0.9609 [Hidangan Energi] Telor Setengah Matang / Half Boiled Egg #homemadebylita
- 0.9563 Telur dadar gulung korea ala ala (Gyeran Mari)
- 0.9503 Tetukeri (telur tuna keju nori) #ketopad_cp_telur
- 0.9503 Tetukeri (telur tuna keju nori) #ketopad_cp_telur
+['goreng', 'udang', 'ayam', 'tepung', 'mentega', 'siomay', 'crispy', 'simple', 'notitle', 'bakso', 'tempe', 'sempol', 'mie', 'nasi', 'pangsit', 'praktis', 'bakwan', 'peyek', 'kulit', 'krispi']
+ 0.9426 42. Rempeyek Udang / Gimbal Udang / Olahan Udang
+ 0.9426 Ayam Goreng Mentega Gampil bin Gacil
+ 0.9319 Udang goreng tepung saos tartar
+ 0.9319 Udang goreng tepung mini renyah
+ 0.9319 Udang goreng tepung krispi simple
 
 ✨Topic 19✨
 
-['kambing', 'sate', 'tongseng', 'daging', 'kitaberbagi', 'gulai', 'bumbu', 'sapi', 'kecap', 'ala', 'pedas', 'khas', 'gule', 'empuk', 'sop', 'goreng', 'krengsengan', 'simple', 'tengkleng', 'oseng']
- 0.9663 Bistik sapi empuk. Dengan tips memasak daging agar cepat empuk
- 0.9582 Tongseng Kambing (dan tips biar ngga tengik) #KitaBerbagi
- 0.9582 Tongseng Kambing + Bumbu Kare Instan (bau kambing berkurang)
- 0.9582 Sate kambing ala ala kurban praktis dan lezat
- 0.9582 Kroket daging kambing + tips agar kambing ga bau prengus
+['tahu', 'isi', 'bola', 'perkedel', 'tempe', 'martabak', 'udang', 'nugget', 'telur', 'pepes', 'crispy', 'aci', 'sosis', 'bulat', 'sayur', 'simple', 'ayam', 'fantasi', 'walik', 'gejrot']
+ 0.9502 Tahu Kebalik kriuk diluar lembut di dalam #BeraniBaking
+ 0.9502 Puyuh tahu tempe hitam nan pedas nampoL
+ 0.9502 Puyuh tahu tempe hitam nan pedas nampoL
+ 0.9502 Nugget ceria (tahu, wortel, telur, mie & makaroni) 😄
+ 0.9502 Nugget ceria (tahu, wortel, telur, mie & makaroni) 😄
 
 ✨Topic 20✨
 
-['tempe', 'orek', 'kering', 'goreng', 'mendoan', 'sambal', 'tahu', 'sambel', 'pedas', 'tepung', 'penyet', 'teri', 'manis', 'isi', 'kacang', 'kemangi', 'basah', 'jeletot', 'melet', 'kriuk']
- 0.9517 Tempe goreng isi sambal aka Tempe Mercon
- 0.9517 Sambal terasi ditemani tempe geprek tahu goreng
- 0.9517 Sambal terasi ditemani tempe geprek tahu goreng
- 0.9441 Teri tempe sambal bawang iris simple
- 0.9441 Tempe Tepung isi sambal (Tempe Kekinian)
+['ikan', 'bumbu', 'kuning', 'patin', 'bandeng', 'pindang', 'kuah', 'nila', 'tongkol', 'kembung', 'pedas', 'santan', 'gulai', 'mas', 'masak', 'pepes', 'sup', 'acar', 'bakar', 'asem']
+ 0.961 Pepes Ikan Patin (steam patin) Iwak Patin bapais simple
+ 0.9564 Ikan Nila bumbu acar atw Pesmol ikan Nila
+ 0.9505 Sup tahu ikan laut simpel bumbu ulek
+ 0.9505 Sundubu Jjigae (Sup Tahu Pedas ala Korea)
+ 0.9505 Sundubu Jjigae (Sup Tahu Pedas ala Korea)
 
 ✨Topic 21✨
 
-['ayam', 'udang', 'goreng', 'tepung', 'nugget', 'siomay', 'tempe', 'mie', 'mentega', 'simple', 'tahu', 'crispy', 'bakso', 'sempol', 'simpel', 'wortel', 'kulit', 'dan', 'praktis', 'gurih']
- 0.9516 Tempe goreng rasa ketumbar dan Royco ayam
- 0.9516 Tempe goreng rasa ketumbar dan Royco ayam
- 0.9516 Ayam Goreng Tepung Krispi Tahan Lama (no ribet)
- 0.944 Tips Menggoreng Kerupuk Udang Anti Gagal
- 0.944 Mie goreng udang polos tanpa sayur
+['tahu', 'telur', 'ayam', 'telor', 'bumbu', 'semur', 'tempe', 'balado', 'kecap', 'dan', 'kentang', 'ceplok', 'sayur', 'kuah', 'opor', 'kuning', 'bali', 'santan', 'dadar', 'puyuh']
+ 0.9575 Sayur Santan Desa isi Ayam, Kubis dan Tempe
+ 0.9575 Sayur Embe' Embe' (Tahu, Tempe, Telur, dan Labu)
+ 0.9575 Sayur Embe' Embe' (Tahu, Tempe, Telur, dan Labu)
+ 0.9517 Telur puyuh with tahu kuning bumbu rujak kuah
+ 0.9517 Tahu tempe telor bumbu bali ala mommies
 
 ✨Topic 22✨
 
-['udang', 'sambal', 'goreng', 'balado', 'telur', 'tempe', 'kentang', 'tahu', 'sambel', 'pete', 'dan', 'ati', 'nasi', 'sapi', 'telor', 'terong', 'petai', 'ayam', 'ampela', 'hati']
- 0.9573 Nasi Goreng Hati Sapi Ft. Telur Ceplok (bekal sekolah)
- 0.9573 Nasi Goreng Hati Sapi Ft. Telur Ceplok (bekal sekolah)
- 0.9515 👉 Sambal Goreng Hati sapi dan tempe 👈 #Ketopad
- 0.9515 👉 Sambal Goreng Hati sapi dan tempe 👈 #Ketopad
- 0.9515 Penyet Telur Rebus dan Teri Sambal Matang
+['sambal', 'udang', 'goreng', 'balado', 'tempe', 'telur', 'kentang', 'sambel', 'tahu', 'pete', 'dan', 'ayam', 'terong', 'ati', 'penyet', 'bawang', 'telor', 'nasi', 'terasi', 'teri']
+ 0.9508 Terong Bakar dan Telur Penyet Sambal Kemiri
+ 0.9508 Sambal terasi ditemani tempe geprek tahu goreng
+ 0.9508 Sambal terasi ditemani tempe geprek tahu goreng
+ 0.9508 Penyet Telur Rebus dan Teri Sambal Matang
+ 0.9431 Udang, tempe, ikan dencis sambal balado
 
 ✨Topic 23✨
 
-['manis', 'asam', 'pedas', 'udang', 'ayam', 'ikan', 'saus', 'gurame', 'saos', 'bakar', 'sarden', 'tepung', 'tuna', 'padeh', 'kecap', 'tahu', 'patin', 'nila', 'tongkol', 'simple']
- 0.9508 Udang tepung saus asam manis / udang tepung
- 0.9431 Udang Tepung Siram Saus Pedas Manis
- 0.9431 Udang sungai baliem asam manis pedas
- 0.9431 Udang jagung saus pedas asam manis🍴
- 0.9431 Udang goreng Tepung saus Asam Manis
+['sapi', 'daging', 'kambing', 'asem', 'tongseng', 'semur', 'rendang', 'pedas', 'soto', 'oseng', 'gulai', 'rawon', 'tumis', 'ala', 'kentang', 'teriyaki', 'dan', 'tetelan', 'dendeng', 'iga']
+ 0.9566 Soto Balungan Sapi n Kambing Empuk by: Erni Hartanti.Amd😘😍😄
+ 0.9566 #KitaBerbagi gulai daging sapi + ati lambing ala rumahan
+ 0.9566 Kentang Daging Panggang (Patates pure Etli: masakan Turki)
+ 0.9507 Semur daging sapi cincang dan kentang (#pr_recookmantenelis)
+ 0.9507 Semur daging sapi ala Hongkong (Ngau lam)
 
 ✨Topic 24✨
 
-['udang', 'saus', 'tiram', 'saos', 'padang', 'telur', 'ayam', 'goreng', 'asin', 'mentega', 'pedas', 'teriyaki', 'madu', 'tahu', 'bakar', 'crispy', 'tumis', 'tepung', 'telor', 'bawang']
- 0.9509 Udang Tepung Saos Mentega Bawang Telur Asin
- 0.9509 Tumis brokoli jamur udang with sauri saus tiram
- 0.9432 Udang saus mentega / butter garlic prawn
- 0.9432 Udang kangkung saus oriental saori(megicom)
- 0.9432 Udang Goreng Tepung Saos Tiram Pedas
+['ikan', 'tongkol', 'sarden', 'suwir', 'balado', 'sambal', 'pedas', 'tumis', 'pindang', 'kembung', 'tuna', 'lele', 'mangut', 'pete', 'kemangi', 'gabus', 'asin', 'matah', 'cakalang', 'sambel']
+ 0.9493 Iwak lundu betu'up a.k.a tumis ikan keting #herinwidodo
+ 0.9414 Sambal ijau tomato maniis ikan patin
+ 0.9414 Ikan Samu Haruan / Ikan Gabus #KhasBanjar
+ 0.9305 Tuna abon bunga kecombrang kecombrang
+ 0.9305 Tumis pakis suwir ikan tongkol
