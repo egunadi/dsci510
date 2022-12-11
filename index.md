@@ -510,3 +510,12 @@ Click on the markers above to see restaurant names. For those curious, below is 
     </tr>
   </tbody>
 </table></div>
+
+<br>
+
+For fun, I used Yelp to validate my map and was delighted to find a couple of crossovers:
+
+<iframe src="img/indocafe.jpg" height="500" width="500"></iframe>
+<br>
+<iframe src="img/kapow.jpg" height="500" width="500"></iframe>
+

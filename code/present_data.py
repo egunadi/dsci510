@@ -34,6 +34,15 @@ Click on the markers above to see restaurant names. For those curious, below is 
     with open('../result/seattlerestaurants.html','r') as contents:
         seattle_table = contents.read()  
 
+    footer2 = """For fun, I used Yelp to validate my map and was delighted to find a couple of crossovers:
+
+<iframe src="img/indocafe.jpg" height="500" width="500"></iframe>
+<br>
+<iframe src="img/kapow.jpg" height="500" width="500"></iframe>
+
+"""
+    
+    # put everything together
     with open('../index.md','w') as contents:
         contents.write(header
                         + tempe_table
@@ -43,7 +52,8 @@ Click on the markers above to see restaurant names. For those curious, below is 
                         + '\n\n<br>\n\n'
                         + footer
                         + seattle_table
-                        + '\n')
+                        + '\n\n<br>\n\n'
+                        + footer2)
 
 if __name__ == '__main__':
     present_data()
