@@ -54,12 +54,13 @@ def analyze_data():
     right_df = indorestaurants_df.set_index(['restaurant_id', 'name_menuitem'])
     merged_generalized_dish_df = left_df.join(right_df).reset_index()
 
+    column_rename_dict = {  'name_menuitem': 'Dish',
+                            'description': 'Description',
+                            'name_restaurant': 'Restaurant',
+                            'score': 'Rating',
+                            'full_address': 'Address'   }
     merged_generalized_dish_df = merged_generalized_dish_df \
-                                    .rename(columns = { 'name_menuitem': 'Dish',
-                                                        'description': 'Description',
-                                                        'name_restaurant': 'Restaurant',
-                                                        'score': 'Rating',
-                                                        'full_address': 'Address'   })
+                                    .rename(columns = column_rename_dict)
 
     merged_generalized_dish_df['Description'] = merged_generalized_dish_df['Description'].replace(r'\n', ' ', regex = True)
     merged_generalized_dish_df['Description'] = merged_generalized_dish_df['Description'].fillna('Description Unavailable')
@@ -125,6 +126,23 @@ def analyze_data():
     seattlerestaurants_df = indorestaurants_df[indorestaurants_df['city'] == 'Seattle, WA']
 
     seattlerestaurants_df.to_csv('../data/seattlerestaurants.csv', encoding='utf-8', index=False)
+
+    seattlerestaurants_df = seattlerestaurants_df \
+                                .rename(columns = column_rename_dict)
+
+    seattlerestaurants_df.loc[:, export_columns_list] \
+                            .drop_duplicates() \
+                            .sort_values(['Rating', 'Restaurant'], ascending = [False, True]) \
+                            .to_html('../result/seattlerestaurants.html', index = False)
+
+    with open('../result/seattlerestaurants.html','r') as contents:
+        save = contents.read()
+    with open('../result/seattlerestaurants.html','w') as contents:
+        contents.write("<div style='height: 400px; overflow: auto; width: fit-content'>")
+    with open('../result/seattlerestaurants.html','a') as contents:
+        contents.write(save)
+    with open('../result/seattlerestaurants.html','a') as contents:
+        contents.write("</div>")
 
 if __name__ == '__main__':
     analyze_data()

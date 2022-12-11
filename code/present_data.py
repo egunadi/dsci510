@@ -26,8 +26,13 @@ Here is a list of some tempe dishes available, along with their restaurants. Onl
 
 <iframe src="result/seattle-indorestaurants-map.html" height="500" width="500"></iframe>
 [Click here](result/seattle-indorestaurants-map.html) to explore this map as its own web page.
-    
+
+Click on the markers above to see restaurant names. For those curious, below is the complete list of mapped restaurants and the Indonesian dishes served. Restaurants are sorted by rating in descending order and restaurant name in ascending order.
+
 """
+
+    with open('../result/seattlerestaurants.html','r') as contents:
+        seattle_table = contents.read()  
 
     with open('../index.md','w') as contents:
         contents.write(header
@@ -36,7 +41,9 @@ Here is a list of some tempe dishes available, along with their restaurants. Onl
                         + observations
                         + non_tempe_table
                         + '\n\n<br>\n\n'
-                        + footer)
+                        + footer
+                        + seattle_table
+                        + '\n')
 
 if __name__ == '__main__':
     present_data()
