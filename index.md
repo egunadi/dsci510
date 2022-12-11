@@ -7,7 +7,7 @@
 Tempe (or "tempeh" in English) are fermented soybean blocks that have gone mainstream in the US as a meat substitute for protein. This is apparent in the bar plot above where, aside from rice dishes, there are at least double the number of restaurants serving tempe-based dishes compared to other Indonesian cuisines.
 
 Here is a list of some tempe dishes available, along with their restaurants. Only restaurants rated greater than or equal to 4.9 are shown: 
-
+      
 <div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -193,3 +193,4 @@ Most items are Western dishes (ex. taco or burger) repurposed to use tempe as it
 
 <iframe src="result/seattle-indorestaurants-map.html" height="500" width="500"></iframe>
 [Click here](result/seattle-indorestaurants-map.html) to explore this map as its own web page.
+    

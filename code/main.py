@@ -4,6 +4,7 @@ import topic_modeling
 import scrub_data
 import analyze_data
 import visualize_data
+import present_data
 
 if __name__ == '__main__':
     # 1. download data (warning, may take several minutes)
@@ -18,3 +19,6 @@ if __name__ == '__main__':
     # 3. analyze data
     analyze_data.analyze_data()
     visualize_data.visualize_data()
+
+    # 4. present findings in <https://egunadi.github.io/dsci510>
+    present_data.present_data()
