@@ -7,7 +7,7 @@ import visualize_data
 import present_data
 
 if __name__ == '__main__':
-    # 1. download data (warning, may take several minutes)
+    # 1. download data (may take several minutes -- recommended to run alone)
     # get_data.get_data()
     
     # 2. process data

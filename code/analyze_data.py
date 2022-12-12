@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 
-
 def analyze_data():
     indorestaurants_filepath = "../data/indorestaurants.csv"
 
