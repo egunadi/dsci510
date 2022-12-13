@@ -7,7 +7,7 @@ The first dataset of interest is "Uber Eats USA Restaurants and Menus" from Kagg
 - "restaurants.csv" contains 40k+ entries of restaurants that have partnered with Uber eats accross the nation
 - "restaurant-menus.csv" contains 3.71M menu items orderable from the restaurants in "restaurants.csv"
 
-The dataset is updated frequently and, at the time of writing, was last updated three months ago. Both files will be joined via their "restaurant ID" field.
+The dataset is updated frequently and, at the time of writing, was last updated three months ago. Both files are joined via their "restaurant ID" fields.
 
 Also from Kaggle, the second dataset is "Indonesian Food Recipes" <https://www.kaggle.com/datasets/canggih/indonesian-food-recipes>. This data was scraped from <https://cookpad.com> and contains 14,000 Indonesian cuisine recipes, broken into eight CSV files based on food type (ex. chicken, beef, tofu, etc.). At the time of writing, the data was last updated three years ago.
 
@@ -150,7 +150,7 @@ prefix: /Users/egunadi/anaconda3/envs/dsci510
 
 ## Installation
 
-The environment.yml file in GitHub can be used to recreate my environment. For topic modeling analysis, a tool called MALLET (MAchine Learning for LanguagE Toolkit) is used. It's written in Java, which means the Java Development Kit also has to be installed. Here is an article that provides guidance on how to set everything up:
+The environment.yml file in GitHub can be used to recreate my environment. For topic modeling analysis, a tool called MALLET (MAchine Learning for LanguagE Toolkit) is used. It's written in Java, which means the Java Development Kit also must be installed. Here is an article that provides guidance on how to set everything up:
 <https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/07-Topic-Modeling-Set-Up.html>
 
 Note that my "mallet-2.0.8" directory resides in the git repository.
@@ -164,7 +164,7 @@ Results can be reproduced via "code/main.py", which runs the following functions
 - consolidate_data.consolidate_indorecipes_data()
   - Consolidates all Cookpad recipes into one master file, "data/indofoods.csv" (included in the repo).
 - topic_modeling.generate_topics()
-  - Topic modeling, specifically latent Dirichlet allocation or "LDA", is used to generate a Indonesian dish key terms that can be grouped in categories ("results/indofoods_topics.txt").
+  - Topic modeling, specifically latent Dirichlet allocation or "LDA", is used to generate Indonesian dish key terms that can be grouped in categories ("results/indofoods_topics.txt").
 - scrub_data.scrub_ubereats_data()
   - Uses the topics from "results/indofoods_topics.txt", along with my domain knowledge of Indonesian cuisine, to filter out non-Indonesian restaurants and menus from the Uber Eats data. This on its own may take a minute to complete.
 - consolidate_data.consolidate_ubereats_data()
