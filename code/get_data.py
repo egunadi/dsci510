@@ -1,8 +1,8 @@
 import os
 
 def get_data():
-    os.environ['KAGGLE_USERNAME'] = "ebenflow"
-    os.environ['KAGGLE_KEY'] = "d9b9d7784aa0374e64bf8f7e4a55ff17"
+    os.environ['KAGGLE_USERNAME'] = "" -- enter own username 
+    os.environ['KAGGLE_KEY'] = "" -- enter own key
 
     from kaggle.api.kaggle_api_extended import KaggleApi
     api = KaggleApi()
