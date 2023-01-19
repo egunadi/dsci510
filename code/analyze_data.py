@@ -71,7 +71,7 @@ def analyze_data():
     export_columns_list = ['Dish', 'Description', 'Restaurant', 'Rating', 'Address']
     tempe_df.loc[:, export_columns_list] \
             .drop_duplicates() \
-            .to_html('../result/tempe_dishes.html', index = False)
+            .to_html('../result/tempe_dishes.html', index = False, border = 0)
 
     with open('../result/tempe_dishes.html','r') as contents:
         save = contents.read()
@@ -92,7 +92,7 @@ def analyze_data():
 
     non_tempe_df.loc[:, export_columns_list] \
                 .drop_duplicates() \
-                .to_html('../result/non_tempe_dishes.html', index = False)
+                .to_html('../result/non_tempe_dishes.html', index = False, border = 0)
 
     with open('../result/non_tempe_dishes.html','r') as contents:
         save = contents.read()
@@ -132,7 +132,7 @@ def analyze_data():
     seattlerestaurants_df.loc[:, export_columns_list] \
                             .drop_duplicates() \
                             .sort_values(['Rating', 'Restaurant'], ascending = [False, True]) \
-                            .to_html('../result/seattlerestaurants.html', index = False)
+                            .to_html('../result/seattlerestaurants.html', index = False, border = 0)
 
     with open('../result/seattlerestaurants.html','r') as contents:
         save = contents.read()

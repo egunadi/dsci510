@@ -7,8 +7,23 @@
 Tempe (or "tempeh" in English) are fermented soybean blocks that have gone mainstream in the US as a meat substitute for protein. This is apparent in the bar plot above where, aside from rice dishes, there are at least double the number of restaurants serving tempe-based dishes compared to other Indonesian cuisines.
 
 Here is a list of some tempe dishes available, along with their restaurants. Only restaurants rated greater than or equal to 4.9 are shown: 
+
+<style>
+td, th, table {
+  border: none!important;
+}
+th {
+  text-align: left;
+}
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+table td:nth-child(4) {
+  text-align: center;
+}​
+</style>
       
-<div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
+<div style='height: 400px; overflow: auto; width: fit-content'><table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Dish</th>
@@ -110,7 +125,7 @@ Here is a list of some tempe dishes available, along with their restaurants. Onl
 
 Most items are Western dishes (ex. taco or burger) repurposed to use tempe as its protein. By excluding tempe we can see a more accurate list of authentic Indonesian dishes served by highly rated restaurants:
 
-<div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
+<div style='height: 400px; overflow: auto; width: fit-content'><table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Dish</th>
@@ -196,7 +211,7 @@ Most items are Western dishes (ex. taco or burger) repurposed to use tempe as it
 
 Click on the markers above to see restaurant names. For those curious, below is the complete list of mapped restaurants and the Indonesian dishes served. Restaurants are sorted by rating in descending order and restaurant name in ascending order.
 
-<div style='height: 400px; overflow: auto; width: fit-content'><table border="1" class="dataframe">
+<div style='height: 400px; overflow: auto; width: fit-content'><table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th>Dish</th>
